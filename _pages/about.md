@@ -6,7 +6,7 @@ subtitle: 4th Year Undergraduate, Electrical Engineering @ IIT Bombay
 
 profile:
   align: right
-  image: profile_pic.jpg
+  image: profile.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>Room No. 9060, Hostel 17</p>
