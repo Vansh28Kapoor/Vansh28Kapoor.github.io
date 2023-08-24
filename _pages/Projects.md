@@ -56,7 +56,7 @@ Evaluated the performance of Costas Loop and Viterbi-Viterbi algorithms in discr
   [_EE309, Microprocessors, Spring 2021_](https://www.ee.iitb.ac.in/web/course_lists/ee-309-microprocessors/), [_Prof. Virendra Singh_](https://www.ee.iitb.ac.in/~viren/)
 
 
-  ![RISC MultiState High Level](/assets/img/risc.png){: width="700" }  
+  ![RISC MultiState High Level](/assets/img/risc.PNG){: width="700" }  
 Designed the architecture of a RISC microprocessor which included all the hazard mitigation techniques like forwarding and branch prediction. The architecture allowed predicated instruction execution and multiple load and store execution. [Read More](/projects/RISC)
 
 ## Reading Projects  
@@ -64,7 +64,7 @@ Designed the architecture of a RISC microprocessor which included all the hazard
 _EE 736: Stochastic Optimization, Spring 2023_
 
 
-  ![RISC MultiState High Level](/assets/img/risc.png){: width="700" }    
+  ![RISC MultiState High Level](/assets/img/risc.PNG){: width="700" }    
 Conducted an intense literature review on the convex analytic method for infinite horizon average cost optimal stochastic control problems covering all its major results and its diverse applications in various fields. Delivered a detailed review incorporating its economic interpretations and intuitive explanations.  
 
 3. **CONSENSUS AND BIPARTITE CONSENSUS**  
