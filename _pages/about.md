@@ -9,7 +9,7 @@ profile:
   image: profile.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Room No. 9060, Hostel 17</p>
+    <p>Room No. 6010, Hostel 17</p>
     <p>IIT Bombay, Powai</p>
     <center>
           <a href="mailto:kapoor4798.vk@gmail.com">Email</a> |
