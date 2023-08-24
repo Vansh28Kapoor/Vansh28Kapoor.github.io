@@ -12,9 +12,9 @@ profile:
     <p>Room No. 9060, Hostel 17</p>
     <p>IIT Bombay, Powai</p>
     <center>
-          <a href="mailto:tejaspagare2002@gmail.com">Email</a> |
-          <a href="https://www.linkedin.com/in/tejas-pagare/">LinkedIn</a> | 
-          <a href="https://github.com/tejassp2002">GitHub</a>
+          <a href="mailto:kapoor4798.vk@gmail.com">Email</a> |
+          <a href="https://www.linkedin.com/in/vansh-kapoor-939347284/">LinkedIn</a> | 
+          <a href="https://github.com/Vansh28Kapoor">GitHub</a>
     </center>
 
 news: true  # includes a list of news items
