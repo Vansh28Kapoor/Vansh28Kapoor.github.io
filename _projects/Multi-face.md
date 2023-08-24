@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /projects/Multi-face/
 ---
 <h1><b>Real-Time Rapid Visual Multi-Face Detector</b></h1>  
 
