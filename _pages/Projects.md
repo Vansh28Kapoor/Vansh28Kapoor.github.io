@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Projects
+description: My Technical Projects
 order: 2
 nav: true
 ---
