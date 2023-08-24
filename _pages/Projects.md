@@ -3,8 +3,10 @@ layout: page
 title: Projects
 permalink: /projects/
 description: My Technical Projects
-order: 2
+nav_order: 2
+display_categories: [work, fun]
 nav: true
+horizontal: false
 ---
 
 ## Internship
