@@ -34,7 +34,7 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
     <img width="400" src="/img/detect.gif">
 </p>
    
-As a part of the endterm project for the course, developed a rapid real-time multi-face detector. [Read More](/projects/Multi-face_Detector)
+As a part of the endterm project for the course, developed a rapid real-time multi-face detector. [Read More](/projects/Multi-face)
 
 3. **RAPTOR CODES**  
  [_EE 605: Error Correcting Codes_](https://www.ee.iitb.ac.in/web/course_lists/ee-605-error-correcting-codes/), [_Prof. Nikhil Karamchandani_](https://sites.google.com/site/nikhilkaram/)
