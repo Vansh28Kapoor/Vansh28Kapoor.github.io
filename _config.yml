@@ -2,17 +2,17 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: "Pranava Singhal" # the website title (if blank, full name will be used instead)
-first_name: Pranava
+title: "Vansh Kapoor" # the website title (if blank, full name will be used instead)
+first_name: Vansh
 middle_name: 
-last_name: Singhal
-email: pranava.psinghal@gmail.com
+last_name: Kapoor
+email: kapoor4798.vk@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  I'm Pranava Singhal, a final year student at IIT Bombay pursuing a Bachelors in Electrical Engineering with a Minor in Artificial Intelligence. My primary interests are Machine Learning, Signal and Image Processing, and Statistics.
+Hey! I'm Vansh, a final year Undergraduate at IIT Bombay pursuing Electrical Engineering along with Honors. My enthusiasm greatly lies in the realm of applied probability and stochastic theory
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: pranava, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: vansh, academic-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: "favicon_io/favicon.ico"  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -70,16 +70,16 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: pringlesinghal # your GitHub user name
+github_username: Vansh28Kapoor # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: pranava-singhal-84256620b # your LinkedIn user name
+linkedin_username: vansh-kapoor-939347284 # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: 7smSwUsAAAAJ # your Google Scholar ID
+scholar_userid:  # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: 0009-0004-0166-1529 # your ORCID ID
+orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
