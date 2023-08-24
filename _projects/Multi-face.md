@@ -9,7 +9,7 @@ permalink: /projects/Multi-face/
 [Report](assets/pdf/Multi-Face) | [Github](https://github.com/Vansh28Kapoor/RAPID-VISUAL-MULTI-FACE-DETECTION) 
 
 <p align="center">
-    <img width="600" src="/img/bandits.png">
+    <img width="400" src="/img/detect.gif">
 </p>
 
 
