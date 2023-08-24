@@ -24,21 +24,14 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am currently interested in the intersection of Economics and Machine Learning. 
-My interests include theoretical aspects of Machine Learning, including Reinforcement Learning and Online Learning. 
-On the practical side, I'm particularly interested in Robotics, including Mars Rover Prototypes and Aerial Robots. 
+Hey! I am Vansh, a final year Undergraduate at [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web/index.php), [IIT Bombay](https://www.iitb.ac.in/). I am pursuing a Bachelor of Technology (B.Tech) in Electrical Engineering along with Honors. My enthusiasm greatly lies in exploring the realm of applied probability and stochastic theory. More specifically, I am inclined towards applications of concepts such as Reinforcement Learning, Queuing Theory, Multi-Arm Bandits and Game Theory to optimize Computer Networks and Digital Communication.
 
-
-In the past I was a senior member in the Image Processing Subdivision of the <a href="https://iitbmartian.github.io/">Mars Rover Team</a> at IIT Bombay, where we build Mars Rover prototypes to participate in International Competitions like <a href="https://urc.marssociety.org/">URC</a>, <a href="https://southasia.marssociety.org/irdc/">IRDC</a> and <a href="https://southasia.marssociety.org/indianroverchallenge/">IRC</a>. 
-
-
-Hey! I am Vansh, a final year Undergraduate at [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web/index.php), [IIT Bombay](https://www.iitb.ac.in/). I am pursuing a Bachelor of Technology (B.Tech) in Electrical Engineering along with Honors. 
-
-My enthusiasm greatly lies in exploring the realm of applied probability and stochastic theory. More specifically, I am inclined towards applications of concepts such as Reinforcement Learning, Queuing Theory, Multi-Arm Bandits and Game Theory to optimize Computer Networks and Digital Communication.
 
 Currently I am working with Prof. Jayakrishnan Nair on a special case of discounted cost [POMDP (Partially Observable Markov Decision Processes)](/research). At the moment, I am also actively engaged as a Teaching Assistant for a course I deeply enjoy: Error Correcting Codes, taught by Prof. Nikhil Karamchandani.
 
-Apart from that I love solving brain teasers and puzzles and I always find a way to incorporate it into my schedule. I deeply enjoy playing Table tennis and watching cricket I find profound enjoyment in both playing table tennis and watching cricket, in fact both activities serve as stress relievers for me 
+Apart from that I love solving brain teasers and puzzles and I always find a way to incorporate it into my schedule. I deeply enjoy playing Table tennis and watching cricket I find profound enjoyment in both playing table tennis and watching cricket, in fact both activities serve as stress relievers for me .
+
+
 Collaborators:
 - <a href="https://www.ee.iitb.ac.in/web/people/faculty/home/borkar">Prof. Vivek S. Borkar</a> (EE, IIT Bombay)
 - <a href="https://www-sop.inria.fr/members/Konstantin.Avratchenkov/me.html">Dr. Konstantin Avrachenkov</a> (INRIA, France)
