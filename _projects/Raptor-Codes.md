@@ -7,7 +7,7 @@ permalink: /projects/Raptor-Codes/
 _Course Project for EE605: Error Correcting Codes with Pranava Singhal_
   
   
-[Slides](assets/pdf/Raptor_Codes.pdf) | [Github](https://github.com/Vansh28Kapoor/Raptor-Codes) 
+[Slides](/assets/pdf/Raptor_Codes.pdf) | [Github](https://github.com/Vansh28Kapoor/Raptor-Codes) 
 
 <p align="center">
     <img width="400" src="/img/Raptor.png">
