@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /projects/Multi-face/
+permalink: /projects/Raptor-Codes/
 ---
 <h1><b>Raptor Codes</b></h1>  
 
