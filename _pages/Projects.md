@@ -85,11 +85,11 @@ Evaluated the performance of Costas Loop and Viterbi-Viterbi algorithms in discr
 Designed the architecture of a RISC microprocessor which included all the hazard mitigation techniques like forwarding and branch prediction. The architecture allowed predicated instruction execution and multiple load and store execution. [Read More](/projects/RISC)
 
 ## Reading Projects  
-1. **STOCHASTIC OPTIMIZATION**  [report](/assets/pdf/Reading_Project.pdf){: .btn--report}  
+1. **STOCHASTIC OPTIMIZATION**  [report](/assets/pdf/Reading_Project.pdf)
   [_EE736, Introduction to Stochastic Optimization_](https://www.ee.iitb.ac.in/web/course_lists/ee-736-introduction-to-stochastic-optimization/), [_Prof. Vivek S. Borkar_](https://www.ee.iitb.ac.in/web/people/faculty/home/borkar)
 
 <p align="center">
-    <img width="400" src="/assets/img/risc.PNG">
+    <img width="400" src="/assets/img/opt.jpg">
 </p>
 
 Conducted an intense literature review on the convex analytic method for infinite horizon average cost optimal stochastic control problems covering all its major results and its diverse applications in various fields. Delivered a detailed review incorporating its economic interpretations and intuitive explanations.  
