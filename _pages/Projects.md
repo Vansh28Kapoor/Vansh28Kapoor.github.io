@@ -44,7 +44,7 @@ As a part of the endterm project for the course, developed a rapid real-time mul
     <img width="400" src="/img/Raptor.png">
 </p>
    
-Delivered a concise talk showcasing the significance of Raptor codes as a contemporary coding technique as a component of the course endterm project. [Read More](/projects/Raptor) 
+Delivered a concise talk showcasing the significance of Raptor codes as a contemporary coding technique as a component of the course endterm project. [Read More](/projects/Raptor-Codes) 
 
 4. **BIOMEDICAL IMAGE SEGMENTATION USING DEEP LEARNING** [Github](https://github.com/Vansh28Kapoor/BIOMEDICAL-IMAGE-SEGMENTATION-USING-DEEP-LEARNING)        
   [_EE 610: Image Processing_](https://www.ee.iitb.ac.in/web/course_lists/ee-768-introduction-to-machine-learning/), [_Prof. Amit Sethi_](https://www.ee.iitb.ac.in/~asethi/)  
@@ -85,7 +85,7 @@ Evaluated the performance of Costas Loop and Viterbi-Viterbi algorithms in discr
 Designed the architecture of a RISC microprocessor which included all the hazard mitigation techniques like forwarding and branch prediction. The architecture allowed predicated instruction execution and multiple load and store execution. [Read More](/projects/RISC)
 
 ## Reading Projects  
-1. **STOCHASTIC OPTIMIZATION**  [report](/files/Reading_Project.pdf){: .btn--report}  
+1. **STOCHASTIC OPTIMIZATION**  [report](/assets/pdf/Reading_Project.pdf){: .btn--report}  
   [_EE736, Introduction to Stochastic Optimization_](https://www.ee.iitb.ac.in/web/course_lists/ee-736-introduction-to-stochastic-optimization/), [_Prof. Vivek S. Borkar_](https://www.ee.iitb.ac.in/web/people/faculty/home/borkar)
 
 <p align="center">
@@ -103,7 +103,7 @@ _Summer Project, Spring 2022_
 
 Explored various results on Bipartite consensus of general linear multi-agent systems and Bipartite consensus in networks of agents with antagonistic interactions by Performing thorough literature review. The objective is on finding out the condition for the existence of the control parameter K for which Bi-partite Consensus is possible when the agents are all linear systems with different state-space representations
 
-5. **GAME THEORY AND ALGORITHMIC DESIGN**  [report](/files/Project_proposal.pdf){: .btn--report}  
+5. **GAME THEORY AND ALGORITHMIC DESIGN**  [report](/assets/pdf/game.pdf)  
 _Summer of Science, Spring 2023_
 
 <p align="center">
