@@ -34,9 +34,7 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
     <img width="450" src="/img/detect.gif">
 </p>
    
-As a part of the endterm project for the course, developed a rapid real-time multi-face detector. It utilizes the modern technique of “Integral
-Image Representation” for rapid computation of Haar features, subsequently used by Adaboost for classifier learning. Integrated the model with a live webcam,
-enabling real-time face detection. [Read More](/projects/Multi-face)
+As a part of the endterm project for the course, developed a rapid real-time multi-face detector that utilizes “Integral Image Representation” for rapid computation of Haar features, subsequently used by Adaboost for classifier learning. [Read More](/projects/Multi-face)
 
 ### 3. **RAPTOR CODES**  
  [_EE 605: Error Correcting Codes_](https://www.ee.iitb.ac.in/web/course_lists/ee-605-error-correcting-codes/), [_Prof. Nikhil Karamchandani_](https://sites.google.com/site/nikhilkaram/)
@@ -46,7 +44,7 @@ enabling real-time face detection. [Read More](/projects/Multi-face)
     <img width="450" src="/img/Raptor.png">
 </p>
    
-Delivered a concise talk showcasing the significance of Raptor codes as a contemporary coding technique as a component of the course endterm project. Simulated digital message transmission utilizing Raptor code while modeling the Internet as a Binary Erasure Channel (BEC). [Read More](/projects/Raptor-Codes) 
+Simulated digital message transmission utilizing Raptor codes and delivered a concise talk showcasing the significance of Raptor codes as a contemporary coding technique as a component of the course endterm project. [Read More](/projects/Raptor-Codes) 
 
 ### 4. **BIOMEDICAL IMAGE SEGMENTATION USING DEEP LEARNING** [Github](https://github.com/Vansh28Kapoor/BIOMEDICAL-IMAGE-SEGMENTATION-USING-DEEP-LEARNING)        
   [_EE 610: Image Processing_](https://www.ee.iitb.ac.in/web/course_lists/ee-768-introduction-to-machine-learning/), [_Prof. Amit Sethi_](https://www.ee.iitb.ac.in/~asethi/)  
