@@ -66,7 +66,7 @@ Utilization of a multi-organ transfer learning approach using U-Net architecture
  Wide-ranging and challenging problem statements which dealt with implementing a research-based technique properties of neighbouring wavelet coefficients for image denoising, image restoration of motion-blurred cars to effectively reveal license plate characters, and satellite image enhancement.  
  
  #### 6. **ALGORITHMIC DESIGN OF COMMUNICATION SYSTEMS**  
-[ _EE 341: Communication Systems Lab_ ](https://www.ee.iitb.ac.in/web/course_lists/ee-341-communication-systems-i/), [_Prof. Jayakrishnan Nair_](https://www.ee.iitb.ac.in/~jayakrishnan.nair/)  
+  [ _EE 341: Communication Systems Lab_ ](https://www.ee.iitb.ac.in/web/course_lists/ee-341-communication-systems-i/), [_Prof. Jayakrishnan Nair_](https://www.ee.iitb.ac.in/~jayakrishnan.nair/)  
 
 <p align="center">
     <img width="450" height="280" src="/img/costas.png">
