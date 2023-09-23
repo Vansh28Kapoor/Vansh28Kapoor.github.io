@@ -7,7 +7,7 @@ permalink: /projects/Multi-face/
 
   [_EE 769: Introduction to Machine Learning_](https://www.ee.iitb.ac.in/web/course_lists/ee-768-introduction-to-machine-learning/), [_Prof. Amit Sethi_](https://www.ee.iitb.ac.in/~asethi/)  
   
-[Report ](assets/pdf/Project_Report)|[ Github](https://github.com/Vansh28Kapoor/RAPID-VISUAL-MULTI-FACE-DETECTION) 
+[Report ](assets/pdf/Project_Report)|[ GitHub](https://github.com/Vansh28Kapoor/RAPID-VISUAL-MULTI-FACE-DETECTION) 
 
 
 <br>
