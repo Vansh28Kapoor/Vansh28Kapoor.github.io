@@ -10,7 +10,7 @@ permalink: /projects/Multi-face/
 [Report](assets/pdf/Project_Report) | [Github](https://github.com/Vansh28Kapoor/RAPID-VISUAL-MULTI-FACE-DETECTION) 
 
 
-
+<br>
 <p align="center">
     <img width="450" src="/img/detect.gif">
 </p>
