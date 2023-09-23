@@ -63,7 +63,7 @@ Coded a U-Net architecture tailored for binary semantic segmentation for disting
 
 
 <p align="center">
-    <img height="300" src="/img/Restoration.gif">
+    <img width="480" height="250" src="/assets/img/Restoration.gif">
 </p>
 
  Wide ranging and challenging problem statements which dealt with implementing a research-based technique properties of neighbouring wavelet coefficients for image denoising, image restoration of motion-blurred cars to effectively reveal license plate characters and satellite image enhancement.
