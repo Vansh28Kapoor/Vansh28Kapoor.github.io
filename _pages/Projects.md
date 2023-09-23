@@ -43,7 +43,7 @@ enabling real-time face detection. [Read More](/projects/Multi-face)
 
 
 <p align="center">
-    <img width="400" src="/img/Raptor.png">
+    <img width="450" src="/img/Raptor.png">
 </p>
    
 Delivered a concise talk showcasing the significance of Raptor codes as a contemporary coding technique as a component of the course endterm project. Simulated digital message transmission utilizing Raptor code while modeling the Internet as a Binary Erasure Channel (BEC). [Read More](/projects/Raptor-Codes) 
@@ -53,7 +53,7 @@ Delivered a concise talk showcasing the significance of Raptor codes as a contem
 
 
 <p align="center">
-    <img width="300" height="250" src="/img/img_segmentation.gif">
+    <img width="280" height="280" src="/img/img_segmentation.gif">
 </p>
 
 Coded a U-Net architecture tailored for binary semantic segmentation for distinguishing between nucleus and non-nucleus regions in stained tissue images by employing TensorFlow+Keras. Finally, applied watershed segmentation on the probability map produced by UNet for segmentation of individual nuclei, demonstrating its effectiveness on test images containing overlapping or touching nuclei.
@@ -63,7 +63,7 @@ Coded a U-Net architecture tailored for binary semantic segmentation for disting
 
 
 <p align="center">
-    <img width="300" height="300" src="/img/restore.gif">
+    <img  width="250" height="280" src="/img/restore.gif">
 </p>
 
  Wide ranging and challenging problem statements which dealt with implementing a research-based technique properties of neighbouring wavelet coefficients for image denoising, image restoration of motion-blurred cars to effectively reveal license plate characters and satellite image enhancement.
