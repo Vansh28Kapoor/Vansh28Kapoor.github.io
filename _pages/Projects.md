@@ -21,7 +21,7 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
   
   
 <p align="center">
-    <img width="400" src="/img/bandit.gif">
+    <img width="450" src="/img/bandit.gif">
 </p>
 
  Designed and implemented intelligent agents with a strong foundation in intelligence and learning. [Read More](/projects/RL)
@@ -31,7 +31,7 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
 
         
 <p align="center">
-    <img width="400" src="/img/detect.gif">
+    <img width="450" src="/img/detect.gif">
 </p>
    
 As a part of the endterm project for the course, developed a rapid real-time multi-face detector. It utilizes the modern technique of “Integral
