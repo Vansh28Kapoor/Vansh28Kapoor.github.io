@@ -58,12 +58,12 @@ Delivered a concise talk showcasing the significance of Raptor codes as a contem
 
 Coded a U-Net architecture tailored for binary semantic segmentation for distinguishing between nucleus and non-nucleus regions in stained tissue images by employing TensorFlow+Keras. Finally, applied watershed segmentation on the probability map produced by UNet for segmentation of individual nuclei, demonstrating its effectiveness on test images containing overlapping or touching nuclei.
 
-5. **MULTI-FACETED IMAGE RESTORATION AND ENHANCEMENT** [Github](https://github.com/Vansh28Kapoor/MULTI-FACETED-IMAGE-RESTORATION-AND-ENHANCEMENT){: .btn--github}  
+5. **MULTI-FACETED IMAGE RESTORATION AND ENHANCEMENT** [Github](https://github.com/Vansh28Kapoor/MULTI-FACETED-IMAGE-RESTORATION-AND-ENHANCEMENT)  
   [_EE 610: Image Processing_](https://www.ee.iitb.ac.in/web/course_lists/ee-768-introduction-to-machine-learning/), [_Prof. Amit Sethi_](https://www.ee.iitb.ac.in/~asethi/)  
 
 
 <p align="center">
-    <img  width="250" height="280" src="/img/restore.gif">
+    <img height="300" src="/img/Restoration.gif">
 </p>
 
  Wide ranging and challenging problem statements which dealt with implementing a research-based technique properties of neighbouring wavelet coefficients for image denoising, image restoration of motion-blurred cars to effectively reveal license plate characters and satellite image enhancement.
