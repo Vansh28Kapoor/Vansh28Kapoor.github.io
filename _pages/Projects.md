@@ -50,7 +50,7 @@ Simulated digital message transmission utilizing Raptor codes and delivered a co
 
 
 <p align="center">
-    <img width="280" height="280" src="/assets/img/Bio.gif">
+    <img width="300" height="280" src="/assets/img/Bio.gif">
 </p>
 
 Utilization of a multi-organ transfer learning approach using U-Net architecture tailored for binary semantic segmentation for distinguishing between nucleus and non-nucleus regions in stained tissue images. [Read More](/projects/Image-Segmentation) 
@@ -63,7 +63,7 @@ Utilization of a multi-organ transfer learning approach using U-Net architecture
     <img width="480" height="250" src="/assets/img/Multi.gif">
 </p>
 
- Wide ranging and challenging problem statements which dealt with implementing a research-based technique properties of neighbouring wavelet coefficients for image denoising, image restoration of motion-blurred cars to effectively reveal license plate characters and satellite image enhancement.  
+ Wide-ranging and challenging problem statements which dealt with implementing a research-based technique properties of neighbouring wavelet coefficients for image denoising, image restoration of motion-blurred cars to effectively reveal license plate characters, and satellite image enhancement.  
  
  #### 6. **ALGORITHMIC DESIGN OF COMMUNICATION SYSTEMS**  
 [ _EE 341: Communication Systems Lab_ ](https://www.ee.iitb.ac.in/web/course_lists/ee-341-communication-systems-i/), [_Prof. Jayakrishnan Nair_](https://www.ee.iitb.ac.in/~jayakrishnan.nair/)  
