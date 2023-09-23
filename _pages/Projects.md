@@ -87,7 +87,7 @@ Evaluated the performance of Costas Loop and Viterbi-Viterbi algorithms in discr
 Designed the architecture of a RISC microprocessor which included all the hazard mitigation techniques like forwarding and branch prediction. The architecture allowed predicated instruction execution and multiple load and store execution. [Read More](/projects/RISC)
 
 ## Reading Projects  
-### 1. **STOCHASTIC OPTIMIZATION**  [report](/assets/pdf/Reading_Project.pdf)
+### 1. **STOCHASTIC OPTIMIZATION**  [[Report]](/assets/pdf/Reading_Project.pdf)
   [_EE736, Introduction to Stochastic Optimization_](https://www.ee.iitb.ac.in/web/course_lists/ee-736-introduction-to-stochastic-optimization/), [_Prof. Vivek S. Borkar_](https://www.ee.iitb.ac.in/web/people/faculty/home/borkar)
 
 <p align="center">
@@ -105,7 +105,7 @@ _Summer Project, Spring 2022_
 
 Explored various results on Bipartite consensus of general linear multi-agent systems and Bipartite consensus in networks of agents with antagonistic interactions by Performing thorough literature review. The objective is on finding out the condition for the existence of the control parameter K for which Bi-partite Consensus is possible when the agents are all linear systems with different state-space representations
 
-### 3. **GAME THEORY AND ALGORITHMIC DESIGN**  [report](/assets/pdf/game.pdf)  
+### 3. **GAME THEORY AND ALGORITHMIC DESIGN**  [[Report]](/assets/pdf/game.pdf)  
 _Summer of Science, Spring 2023_
 
 <p align="center">
