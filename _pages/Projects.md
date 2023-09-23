@@ -24,7 +24,7 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
     <img width="400" src="/img/bandit.gif">
 </p>
 
- . [Read More](/projects/RL)
+ Designed and implemented intelligent agents with a strong foundation in intelligence and learning. [Read More](/projects/RL)
 
 2. **RAPID REAL-TIME MULTI-FACE DETECTION**  
   [_EE 769: Introduction to Machine Learning_](https://www.ee.iitb.ac.in/web/course_lists/ee-768-introduction-to-machine-learning/), [_Prof. Amit Sethi_](https://www.ee.iitb.ac.in/~asethi/)
@@ -46,7 +46,7 @@ enabling real-time face detection. [Read More](/projects/Multi-face)
     <img width="400" src="/img/Raptor.png">
 </p>
    
-Delivered a concise talk showcasing the significance of Raptor codes as a contemporary coding technique as a component of the course endterm project. [Read More](/projects/Raptor-Codes) 
+Delivered a concise talk showcasing the significance of Raptor codes as a contemporary coding technique as a component of the course endterm project. Simulated digital message transmission utilizing Raptor code while modeling the Internet as a Binary Erasure Channel (BEC). [Read More](/projects/Raptor-Codes) 
 
 4. **BIOMEDICAL IMAGE SEGMENTATION USING DEEP LEARNING** [Github](https://github.com/Vansh28Kapoor/BIOMEDICAL-IMAGE-SEGMENTATION-USING-DEEP-LEARNING)        
   [_EE 610: Image Processing_](https://www.ee.iitb.ac.in/web/course_lists/ee-768-introduction-to-machine-learning/), [_Prof. Amit Sethi_](https://www.ee.iitb.ac.in/~asethi/)  
