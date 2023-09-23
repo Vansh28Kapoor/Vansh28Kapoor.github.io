@@ -50,7 +50,7 @@ Simulated digital message transmission utilizing Raptor codes and delivered a co
 
 
 <p align="center">
-    <img width="280" height="280" src="assets/img/Bio.gif">
+    <img width="280" height="280" src="/assets/img/Bio.gif">
 </p>
 
 Utilization of a multi-organ transfer learning approach using U-Net architecture tailored for binary semantic segmentation for distinguishing between nucleus and non-nucleus regions in stained tissue images. [Read More](/projects/Image-Segmentation) 
