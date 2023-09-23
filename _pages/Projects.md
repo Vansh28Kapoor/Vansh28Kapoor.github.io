@@ -39,14 +39,13 @@ As a part of the endterm project for the course, developed a rapid real-time mul
 #### 3. **RAPTOR CODES**  
  [_EE 605: Error Correcting Codes_](https://www.ee.iitb.ac.in/web/course_lists/ee-605-error-correcting-codes/), [_Prof. Nikhil Karamchandani_](https://sites.google.com/site/nikhilkaram/)
 
-
 <p align="center">
     <img width="450" src="/img/Raptor.png">
 </p>
    
 Simulated digital message transmission utilizing Raptor codes and delivered a concise talk showcasing the significance of Raptor codes as a contemporary coding technique as a component of the course endterm project. [Read More](/projects/Raptor-Codes) 
 
-#### 4. **BIOMEDICAL IMAGE SEGMENTATION USING DEEP LEARNING** [Github](https://github.com/Vansh28Kapoor/BIOMEDICAL-IMAGE-SEGMENTATION-USING-DEEP-LEARNING)        
+#### 4. **BIOMEDICAL IMAGE SEGMENTATION USING DEEP LEARNING**    
   [_EE 610: Image Processing_](https://www.ee.iitb.ac.in/web/course_lists/ee-768-introduction-to-machine-learning/), [_Prof. Amit Sethi_](https://www.ee.iitb.ac.in/~asethi/)  
 
 
@@ -56,7 +55,7 @@ Simulated digital message transmission utilizing Raptor codes and delivered a co
 
 Coded a U-Net architecture tailored for binary semantic segmentation for distinguishing between nucleus and non-nucleus regions in stained tissue images by employing TensorFlow+Keras. Finally, applied watershed segmentation on the probability map produced by UNet for segmentation of individual nuclei, demonstrating its effectiveness on test images containing overlapping or touching nuclei.
 
-#### 5. **MULTI-FACETED IMAGE RESTORATION AND ENHANCEMENT** [Github](https://github.com/Vansh28Kapoor/MULTI-FACETED-IMAGE-RESTORATION-AND-ENHANCEMENT)  
+#### 5. **MULTI-FACETED IMAGE RESTORATION AND ENHANCEMENT** 
   [_EE 610: Image Processing_](https://www.ee.iitb.ac.in/web/course_lists/ee-768-introduction-to-machine-learning/), [_Prof. Amit Sethi_](https://www.ee.iitb.ac.in/~asethi/)  
 
 
@@ -75,7 +74,7 @@ Coded a U-Net architecture tailored for binary semantic segmentation for disting
 
 Evaluated the performance of Costas Loop and Viterbi-Viterbi algorithms in discrete-time for phase and frequency offset removal in incoming signals using GNU Radio. Implemented equalization filter design to negate the effect of ISI (Intersymbol Interference) on the digitally transmitted message suffering multipath reflection with the help of GNU Radio. Performed practical analysis of analog carrier modulation schemes (DSB, DSB-SC, and SSB) using an IQ modulator board by observing the received spectrum using GNU Radio and a dongle.
 
-#### 7. **SIX-STAGE PIPELINED MICROPROCESSOR**  [Github](https://github.com/dokania-tanmay/RISC_MulticycleProcessor) 
+#### 7. **SIX-STAGE PIPELINED MICROPROCESSOR** 
   [_EE309, Microprocessors_](https://www.ee.iitb.ac.in/web/course_lists/ee-309-microprocessors/), [_Prof. Virendra Singh_](https://www.ee.iitb.ac.in/~viren/)  
 
 <p align="center">
