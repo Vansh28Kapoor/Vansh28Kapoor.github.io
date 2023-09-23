@@ -1,14 +1,14 @@
 ---
 layout: page
+title: "Raptor Codes"
 permalink: /projects/Raptor-Codes/
 ---
-<h1><b>Raptor Codes</b></h1>  
-
 _Course Project for EE605: Error Correcting Codes with Pranava Singhal_
   
   
 [Slides](/assets/pdf/Raptor_Codes.pdf) | [Github](https://github.com/Vansh28Kapoor/Raptor-Codes) 
 
+<br>
 <p align="center">
     <img width="400" src="/img/Raptor.png">
 </p>
