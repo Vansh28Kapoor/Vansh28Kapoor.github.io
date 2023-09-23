@@ -50,7 +50,7 @@ Simulated digital message transmission utilizing Raptor codes and delivered a co
 
 
 <p align="center">
-    <img width="280" height="280" src="/img/img_segmentation.gif">
+    <img width="280" height="280" src="/img/Bio.gif">
 </p>
 
 Utilization of a multi-organ transfer learning approach using U-Net architecture tailored for binary semantic segmentation for distinguishing between nucleus and non-nucleus regions in stained tissue images. [Read More](/projects/Image-Segmentation) 
@@ -63,13 +63,13 @@ Utilization of a multi-organ transfer learning approach using U-Net architecture
     <img width="480" height="250" src="/assets/img/Multi.gif">
 </p>
 
- Wide ranging and challenging problem statements which dealt with implementing a research-based technique properties of neighbouring wavelet coefficients for image denoising, image restoration of motion-blurred cars to effectively reveal license plate characters and satellite image enhancement.
+ Wide ranging and challenging problem statements which dealt with implementing a research-based technique properties of neighbouring wavelet coefficients for image denoising, image restoration of motion-blurred cars to effectively reveal license plate characters and satellite image enhancement.  
  
  #### 6. **ALGORITHMIC DESIGN OF COMMUNICATION SYSTEMS**  
 [ _EE 341: Communication Systems Lab_ ](https://www.ee.iitb.ac.in/web/course_lists/ee-341-communication-systems-i/), [_Prof. Jayakrishnan Nair_](https://www.ee.iitb.ac.in/~jayakrishnan.nair/)  
 
 <p align="center">
-    <img width="400" src="/img/costas.png">
+    <img width="450" height="280" src="/img/costas.png">
 </p>
 
 Evaluated the performance of Costas Loop and Viterbi-Viterbi algorithms in discrete-time for phase and frequency offset removal in incoming signals using GNU Radio. Implemented equalization filter design to negate the effect of ISI (Intersymbol Interference) on the digitally transmitted message suffering multipath reflection with the help of GNU Radio. Performed practical analysis of analog carrier modulation schemes (DSB, DSB-SC, and SSB) using an IQ modulator board by observing the received spectrum using GNU Radio and a dongle.
