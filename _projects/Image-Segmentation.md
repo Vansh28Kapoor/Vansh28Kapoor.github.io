@@ -12,7 +12,7 @@ permalink: /projects/Image-Segmentation/
 
 <br>
 <p align="center">
-    <img width="400"  src="/img/U-net">
+    <img width="450"  src="/img/U-net.png">
 </p>
 
 
