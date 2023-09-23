@@ -53,7 +53,7 @@ Simulated digital message transmission utilizing Raptor codes and delivered a co
     <img width="280" height="280" src="/img/img_segmentation.gif">
 </p>
 
-Coded a U-Net architecture tailored for binary semantic segmentation for distinguishing between nucleus and non-nucleus regions in stained tissue images by employing TensorFlow+Keras. Finally, applied watershed segmentation on the probability map produced by UNet for segmentation of individual nuclei, demonstrating its effectiveness on test images containing overlapping or touching nuclei.
+Utilization of a multi-organ transfer learning approach using U-Net architecture tailored for binary semantic segmentation for distinguishing between nucleus and non-nucleus regions in stained tissue images. [Read More](/projects/Image-Segmentation) 
 
 #### 5. **MULTI-FACETED IMAGE RESTORATION AND ENHANCEMENT** 
   [_EE 610: Image Processing_](https://www.ee.iitb.ac.in/web/course_lists/ee-768-introduction-to-machine-learning/), [_Prof. Amit Sethi_](https://www.ee.iitb.ac.in/~asethi/)  
