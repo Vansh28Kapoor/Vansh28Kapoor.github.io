@@ -1,8 +1,9 @@
 ---
 layout: page
+title: "Real-Time Rapid Visual Multi-Face Detector"
 permalink: /projects/Multi-face/
 ---
-<h1><b>Real-Time Rapid Visual Multi-Face Detector</b></h1>  
+
 
   [_EE 769: Introduction to Machine Learning_](https://www.ee.iitb.ac.in/web/course_lists/ee-768-introduction-to-machine-learning/), [_Prof. Amit Sethi_](https://www.ee.iitb.ac.in/~asethi/)  
   
