@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "BIOMEDICAL IMAGE SEGMENTATION USING DEEP LEARNING"
+title: "Biomedical Image Segmentation Using Deep Learning"
 permalink: /projects/Image-Segmentation/
 ---
 
