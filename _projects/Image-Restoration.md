@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /projects/Image-Restoration/
 title: "MULTI-FACETED IMAGE RESTORATION AND ENHANCEMENT"
 ---
 
