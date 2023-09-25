@@ -14,6 +14,7 @@ _Lab Project for EE324: Control systems lab_
     </a>
 </div>
 
+## 1. Line Following Robot
 <br>
 <p align="center">
     <img height="250" src="/assets/img/Line_follower.gif">
