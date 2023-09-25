@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Raptor Codes"
-permalink: /projects/Raptor-Codes/
+title: "Implementatio Of Control Systems"
+permalink: /projects/Control-Systems/
 ---
-_Lab Project for EE324: Error Correcting Codes with Pranava Singhal_  
+_Lab Project for EE324: Control systems lab_  
 
 <div style="display: flex;">
     <a href="/assets/pdf/Controls.pdf" style="flex: 1; padding: 10px; border: 1px solid #000; text-align: center; text-decoration: none;">
