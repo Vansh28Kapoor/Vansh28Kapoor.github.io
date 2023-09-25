@@ -16,7 +16,7 @@ _Lab Project for EE324: Error Correcting Codes with Pranava Singhal_
 
 <br>
 <p align="center">
-    <img width="400" src="/img/Line_follower.gif">
+    <img height="250" src="/assets/img/Line_follower.gif">
 </p>
 
 Designed and implemented a PID controller for a line follower Spark V robot that can make it transverse a given sample path within 30 seconds. The derivative component of the PID controller enabled the bot to execute sharp turns and apply corrective measures in the event of gentle or incorrect turns, while the proportional component of the PID controller primarily served to oversee the bot's speed. The PID controller recieved its input from the three sensors situated on the bot's underside and using this information it independently regulated the speed of both the left and right wheels. 
