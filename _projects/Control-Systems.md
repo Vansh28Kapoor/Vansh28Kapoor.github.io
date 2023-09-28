@@ -33,6 +33,6 @@ The objective of the experiment was to create and integrate an active noise-canc
 ## 3. DC Motor Position Control
 <br>
 <p align="center">
-    <img height="250" src="/assets/img/DC-motor.gif">
+    <img height="250" src="/assets/img/DC-motor.png">
 </p>
 The experiment aimed to achieve precise DC motor position control by designing and implementing an embedded PID feedback controller. This controller was created using an Arduino Mega and a motor driver circuit, with the goal of achieving a rise-time of less than 0.5 sec, a 1-second settling time, and an overshoot of atmost 10%.
