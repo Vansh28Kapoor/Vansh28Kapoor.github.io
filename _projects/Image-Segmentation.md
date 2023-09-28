@@ -10,6 +10,7 @@ permalink: /projects/Image-Segmentation/
 <div style="display: flex;">
     <a href="https://github.com/Vansh28Kapoor/BIOMEDICAL-IMAGE-SEGMENTATION-USING-DEEP-LEARNING" style="flex: 1; padding: 10px; border: 1px solid grey; text-align: center; text-decoration: none;">
         <div style="font-weight: bold; color: orchid;">GitHub</div>
+    </a>
 </div>
       
 <br>
