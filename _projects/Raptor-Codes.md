@@ -7,10 +7,10 @@ _Course Project for EE605: Error Correcting Codes with Pranava Singhal_
 
 <div style="display: flex;">
     <a href="/assets/pdf/Raptor_Codes.pdf" style="flex: 1; padding: 10px; border: 1px solid #000; text-align: center; text-decoration: none;">
-        <div style="font-weight: bold;">Slides</div>
+        <div style="font-weight: bold; color: orchid;">Slides</div>
     </a>
     <a href="https://github.com/Vansh28Kapoor/Raptor-Codes" style="flex: 1; padding: 10px; border: 1px solid #000; text-align: center; text-decoration: none;">
-        <div style="font-weight: bold;">GitHub</div>
+        <div style="font-weight: bold; color: orchid;">GitHub</div>
     </a>
 </div>
 
