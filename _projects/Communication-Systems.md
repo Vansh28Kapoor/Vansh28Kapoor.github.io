@@ -1,9 +1,11 @@
 ---
 layout: page
 title: "Implementation Of Communication Systems"
-permalink: /projects/Communication-Systems/
+description: Designed a 2-stage Operational Transconductance Amplifier for the specified parameters and implemented it using Cadence Virtuoso
+img: /img/costas.png
+importance: 4
+category: "Technical Projects"
 ---
-
 
   [_EE 340: Communications Laboratory_](https://www.ee.iitb.ac.in/web/course_lists/ee-340-communications-laboratory/), [_Prof. Jayakrishnan Nair_](https://www.ee.iitb.ac.in/~jayakrishnan.nair/) 
 
