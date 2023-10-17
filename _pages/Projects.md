@@ -16,14 +16,16 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
 
 ## Technical Projects
 
-#### 1. **Reinforcement Learning**  
+#### 1. **[Reinforcement Learning](/projects/RL)**  
   [_CS 747: Foundations of Intelligent and Learning Agents_](https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2022/index.html), [_Prof. Shivaram Kalyanakrishnan_](https://www.cse.iitb.ac.in/~shivaram/)
 
 <p align="center">
     <img width="450" src="/img/bandit.gif">
 </p>
 
- Designed and implemented intelligent agents with a strong foundation in intelligence and learning. [Read More](/projects/RL)
+   <div style="margin-left: 20px;">
+     Designed and implemented intelligent agents with a strong foundation in intelligence and learning. <a href="/projects/RL">Read More</a>
+   </div>
 
 #### 2. **RAPID REAL-TIME MULTI-FACE DETECTION**  
   [_EE 769: Introduction to Machine Learning_](https://www.ee.iitb.ac.in/web/course_lists/ee-768-introduction-to-machine-learning/), [_Prof. Amit Sethi_](https://www.ee.iitb.ac.in/~asethi/)
@@ -33,7 +35,7 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
     <img width="450" src="/img/detect.gif">
 </p>
    
-As a part of the endterm project for the course, developed a rapid real-time multi-face detector that utilizes “Integral Image Representation” for rapid computation of Haar features, subsequently used by Adaboost for classifier learning. [Read More](/projects/Multi-face)
+&nbsp;&nbsp;&nbsp;&nbsp;As a part of the endterm project for the course, developed a rapid real-time multi-face detector that utilizes “Integral Image Representation” for rapid computation of Haar features, subsequently used by Adaboost for classifier learning. [Read More](/projects/Multi-face)
 
 #### 3. **RAPTOR CODES**  
  [_EE 605: Error Correcting Codes_](https://www.ee.iitb.ac.in/web/course_lists/ee-605-error-correcting-codes/), [_Prof. Nikhil Karamchandani_](https://sites.google.com/site/nikhilkaram/)
@@ -52,7 +54,7 @@ Simulated digital message transmission utilizing Raptor codes and delivered a co
     <img width="300" height="280" src="/assets/img/Bio.gif">
 </p>
 
-Utilization of a multi-organ transfer learning approach using U-Net architecture tailored for binary semantic segmentation for distinguishing between nucleus and non-nucleus regions in stained tissue images. [Read More](/projects/Image-Segmentation) 
+&nbsp;&nbsp;&nbsp;&nbsp;Utilization of a multi-organ transfer learning approach using U-Net architecture tailored for binary semantic segmentation for distinguishing between nucleus and non-nucleus regions in stained tissue images. [Read More](/projects/Image-Segmentation) 
 
 #### 5. **MULTI-FACETED IMAGE RESTORATION AND ENHANCEMENT** 
   [_EE 610: Image Processing_](https://www.ee.iitb.ac.in/web/course_lists/ee-768-introduction-to-machine-learning/), [_Prof. Amit Sethi_](https://www.ee.iitb.ac.in/~asethi/)  
@@ -62,7 +64,7 @@ Utilization of a multi-organ transfer learning approach using U-Net architecture
     <img width="480" height="250" src="/assets/img/Multi.gif">
 </p>
 
- Wide-ranging and challenging problem statements which dealt with implementing a research-based technique properties of neighbouring wavelet coefficients for image denoising, image restoration of motion-blurred cars to effectively reveal license plate characters, and satellite image enhancement. 
+&nbsp;&nbsp;&nbsp;&nbsp;Wide-ranging and challenging problem statements which dealt with implementing a research-based technique properties of neighbouring wavelet coefficients for image denoising, image restoration of motion-blurred cars to effectively reveal license plate characters, and satellite image enhancement. 
 
 #### 6. **ALGORITHMIC DESIGN OF COMMUNICATION SYSTEMS** 
   [ _EE 341: Communication Systems Lab_ ](https://www.ee.iitb.ac.in/web/course_lists/ee-341-communication-systems-i/), [_Prof. Jayakrishnan Nair_](https://www.ee.iitb.ac.in/~jayakrishnan.nair/)  
@@ -71,7 +73,7 @@ Utilization of a multi-organ transfer learning approach using U-Net architecture
     <img width="450" height="280" src="/img/costas.png">
 </p>
 
-Evaluated the performance of Costas Loop and Viterbi-Viterbi algorithms in discrete-time for phase and frequency offset removal in incoming signals using GNU Radio. Implemented equalization filter design to negate the effect of ISI (Intersymbol Interference) on the digitally transmitted message suffering multipath reflection with the help of GNU Radio. Performed practical analysis of analog carrier modulation schemes (DSB, DSB-SC, and SSB) using an IQ modulator board by observing the received spectrum using GNU Radio and a dongle.
+&nbsp;&nbsp;&nbsp;&nbsp;Evaluated the performance of Costas Loop and Viterbi-Viterbi algorithms in discrete-time for phase and frequency offset removal in incoming signals. Implemented equalization filter design to negate the effect of ISI (Intersymbol Interference) on the digitally transmitted message suffering multipath reflection with the help of GNU Radio.
 
 #### 7. **SIX-STAGE PIPELINED MICROPROCESSOR** 
   [_EE309, Microprocessors_](https://www.ee.iitb.ac.in/web/course_lists/ee-309-microprocessors/), [_Prof. Virendra Singh_](https://www.ee.iitb.ac.in/~viren/)  
