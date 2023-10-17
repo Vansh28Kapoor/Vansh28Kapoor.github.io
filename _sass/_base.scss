@@ -1034,3 +1034,32 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
+.project-widget {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background-color: #f5f5f5;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s, color 0.3s;
+    margin: 10px;
+}
+
+.project-widget:hover {
+    background-color: #007bff; /* Change the background color on hover */
+    color: #fff; /* Change the text color on hover */
+}
+
+.project-image {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.project-text {
+    flex: 2;
+}
+
+.project-text a {
+    text-decoration: none;
+    color: inherit;
+}
