@@ -17,14 +17,23 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
 ## Technical Projects
 
 #### 1. **Reinforcement Learning**  
-  [_CS747, Foundations of Intelligent Learning Agents_](https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2022/index.html), [_Prof. Shivaram Kalyanakrishnan_](https://www.cse.iitb.ac.in/~shivaram/)
-  
-  
+  [cs747](https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2022/index.html), [_Prof. Shivaram Kalyanakrishnan_](https://www.cse.iitb.ac.in/~shivaram/)
+
 <p align="center">
     <img width="450" src="/img/bandit.gif">
 </p>
 
  Designed and implemented intelligent agents with a strong foundation in intelligence and learning. [Read More](/projects/RL)
+
+<div class="project-widget">
+    <div class="project-image">
+        <img src="/img/bandit.gif" alt="Project Image" width="100">
+    </div>
+    <div class="project-text">
+        <h3><a href="/projects/RL">Reinforcement Learning</a></h3>
+        <p>Designed and implemented intelligent agents with a strong foundation in intelligence and learning.</p>
+    </div>
+</div>
 
 #### 2. **RAPID REAL-TIME MULTI-FACE DETECTION**  
   [_EE 769: Introduction to Machine Learning_](https://www.ee.iitb.ac.in/web/course_lists/ee-768-introduction-to-machine-learning/), [_Prof. Amit Sethi_](https://www.ee.iitb.ac.in/~asethi/)
