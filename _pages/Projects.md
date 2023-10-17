@@ -17,7 +17,7 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
 ## Technical Projects
 
 #### 1. **Reinforcement Learning**  
-  [cs747](https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2022/index.html), [_Prof. Shivaram Kalyanakrishnan_](https://www.cse.iitb.ac.in/~shivaram/)
+  [_CS 747: Foundations of Intelligent and Learning Agents_](https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2022/index.html), [_Prof. Shivaram Kalyanakrishnan_](https://www.cse.iitb.ac.in/~shivaram/)
 
 <p align="center">
     <img width="450" src="/img/bandit.gif">
