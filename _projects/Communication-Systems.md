@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Implementation Of Communication Systems"
-description: Designed a 2-stage Operational Transconductance Amplifier for the specified parameters and implemented it using Cadence Virtuoso
+description: Evaluated the performance of Costas Loop and Viterbi-Viterbi algorithms and  equalization filter design to negate the effecs due to multipath reflection
 img: /img/costas.png
 importance: 4
 category: "Technical Projects"
