@@ -25,16 +25,6 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
 
  Designed and implemented intelligent agents with a strong foundation in intelligence and learning. [Read More](/projects/RL)
 
-<div class="project-widget">
-    <div class="project-image">
-        <img src="/img/bandit.gif" alt="Project Image" width="100">
-    </div>
-    <div class="project-text">
-        <h3><a href="/projects/RL">Reinforcement Learning</a></h3>
-        <p>Designed and implemented intelligent agents with a strong foundation in intelligence and learning.</p>
-    </div>
-</div>
-
 #### 2. **RAPID REAL-TIME MULTI-FACE DETECTION**  
   [_EE 769: Introduction to Machine Learning_](https://www.ee.iitb.ac.in/web/course_lists/ee-768-introduction-to-machine-learning/), [_Prof. Amit Sethi_](https://www.ee.iitb.ac.in/~asethi/)
 
@@ -72,9 +62,9 @@ Utilization of a multi-organ transfer learning approach using U-Net architecture
     <img width="480" height="250" src="/assets/img/Multi.gif">
 </p>
 
- Wide-ranging and challenging problem statements which dealt with implementing a research-based technique properties of neighbouring wavelet coefficients for image denoising, image restoration of motion-blurred cars to effectively reveal license plate characters, and satellite image enhancement.  
- 
- #### 6. **ALGORITHMIC DESIGN OF COMMUNICATION SYSTEMS**  
+ Wide-ranging and challenging problem statements which dealt with implementing a research-based technique properties of neighbouring wavelet coefficients for image denoising, image restoration of motion-blurred cars to effectively reveal license plate characters, and satellite image enhancement. 
+
+#### 6. **ALGORITHMIC DESIGN OF COMMUNICATION SYSTEMS** 
   [ _EE 341: Communication Systems Lab_ ](https://www.ee.iitb.ac.in/web/course_lists/ee-341-communication-systems-i/), [_Prof. Jayakrishnan Nair_](https://www.ee.iitb.ac.in/~jayakrishnan.nair/)  
 
 <p align="center">
