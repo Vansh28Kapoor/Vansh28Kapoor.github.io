@@ -1,8 +1,12 @@
 ---
 layout: page
 title: "Implementation Of Control Systems"
-permalink: /projects/Control-Systems/
+description: Evaluated the performance of Costas Loop and Viterbi-Viterbi algorithms and  equalization filter design to negate the effecs due to multipath reflection
+img: /assets/img/Line_follower.gif
+importance: 5
+category: "Technical Projects"
 ---
+
 _Lab Project for EE324: Control systems lab_  
 
 <div style="display: flex;">
