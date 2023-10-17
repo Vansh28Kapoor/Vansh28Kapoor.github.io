@@ -1,10 +1,7 @@
 ---
 layout: page
 title: "Implementation Of Communication Systems"
-description: Evaluated the performance of Costas Loop and Viterbi-Viterbi algorithms and  equalization filter design to negate the effecs due to multipath reflection
-img: /img/costas.png
-importance: 4
-category: "Technical Projects"
+permalink: /projects/Communication-Systems/
 ---
 
   [_EE 340: Communications Laboratory_](https://www.ee.iitb.ac.in/web/course_lists/ee-340-communications-laboratory/), [_Prof. Jayakrishnan Nair_](https://www.ee.iitb.ac.in/~jayakrishnan.nair/) 
