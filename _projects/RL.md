@@ -7,20 +7,31 @@ permalink: /projects/RL/
 
   [_CS 747: Foundations of Intelligent Learning Agents_](https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2023/index.html), [_Prof. Shivaram Kalyanakrishnan_](https://www.cse.iitb.ac.in/~shivaram/) 
 
-## 1. Faulty Multi-Arm Bandits 
+## 1. Reinforcement Learning for Playing Billiards
+<p align="center">
+    <img width="450"  src="/assets/img/costas.png">
+</p>
+
+The task of this project is to code an agent that provides us with optimal force and angle at which the cue ball has to be struck, such thatit pots all the solid balls within the maximum tries limit. In order to mimic real scenarios where high force to cue ball cultivates to less control, guassian noise proportional to the force is added to the angle provided by the agent to the cue ball.
+
+
+I coded an agent that employed decision-time planning through tree search to identify the most suitable ball to pot and to determine the force that should be applied to the ball along with optimal angle. This provides robustness to the Gaussian Noise added to the input angle to the cue ball. I discounted the reward (balls potted) obtained in the future time-step by a factor of 0.25. Thus, by utilizing and discounting the future time-step reward, I established an effective policy for the cue ball.
+
+
+My intermediate experiments that made be realize the importance of tree search, specifically the advantage of tree search for a depth of two when only a single target ball is remaining. Using a depth of two proved to be quite advantageous since the cue ball took an action that had very high probability of potting the single target ball in at max two tries.
+
+## 2. MDP Planning for Half-Field Offense in Football  
+<p align="center">
+    <img width="450"  src="/assets/img/football.gif">
+</p>
+For any input Markov Decision Process (MDP), I coded up a MDP-planner that can use Value Iteration, Linear Programming or Howard's Policy Iteration to find the optimal policy V* for the MDP. Furthermore using  MDP Planning, I devised a strategy to maximize the  goal-scoring probabilities for a two-player football team attempting to score a goal against a single opponent in a game of football. In such a formulation of the MDP, my Value function of a state is the expected number of goals starting from the initial state.
+<p align="center">
+    <img width="450"  src="/assets/img/policy.jpg">
+</p>
+
+## 3. Faulty Multi-Arm Bandits 
 <p align="center">
     <img width="500"  src="/assets/img/opt_alg.png">
 </p>
 
 Worked on a bandit instance where pulls are no longer guaranteed to be successful and have a probability of giving faulty outputs sampled uniformly from $0$ and $1$. Derived and implemented an asymptotically optimal algorithm to minimize expected cumulative regret. The algorithm employs $Beta$ distribution sampling, similar to Thompson Sampling, while also updating its belief over the arm means based on the probability of a faulty pull.
-## 2. Design Of Equalization Filter 
-<p align="center">
-    <img width="450"  src="/assets/img/Multi-path.png">
-</p>
-Implemented equalization filter design to negate the effect of ISI (Inter Symbol Interference) on the digitally transmitted message suffering from multipath reflection. Formulated a relation between the z-transform of the received signal and the transmitted signal to efficiently manage delays, and used this relation to design a suitable inverse-filter for equalization.
-
-## 3. End-to-End Digital Communication
-<p align="center">
-    <img width="450"  src="/assets/img/costas.png">
-</p>
-Evaluated the performance of Costas Loop and Viterbi-Viterbi algorithms in discrete-time for phase and frequency offset removal in incoming signal 8-PSK using GNU Radio. Performed end-to-end transmission as well as reception of text files as a message using differential coding to handle unintentional inversion of bits in the binary waveform.
