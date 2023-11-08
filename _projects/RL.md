@@ -12,7 +12,7 @@ permalink: /projects/RL/
     <img width="450"  src="/assets/img/costas.png">
 </p>
 
-The task of this project is to code an agent that provides us with optimal force and angle at which the cue ball has to be struck, such thatit pots all the solid balls within the maximum tries limit. In order to mimic real scenarios where high force to cue ball cultivates to less control, guassian noise proportional to the force is added to the angle provided by the agent to the cue ball.
+The task of this project is to code an agent that provides us with optimal force and angle at which the cue ball has to be struck, such that it pots all the solid balls within the maximum tries limit. In order to mimic real scenarios where high force to cue ball cultivates to less control, guassian noise proportional to the force is added to the angle provided by the agent to the cue ball.
 
 
 I coded an agent that employed decision-time planning through tree search to identify the most suitable ball to pot and to determine the force that should be applied to the ball along with optimal angle. This provides robustness to the Gaussian Noise added to the input angle to the cue ball. I discounted the reward (balls potted) obtained in the future time-step by a factor of 0.25. Thus, by utilizing and discounting the future time-step reward, I established an effective policy for the cue ball.
