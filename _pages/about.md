@@ -9,8 +9,6 @@ profile:
   image: profile.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Room No. 6010, Hostel 17</p>
-    <p>IIT Bombay, Powai</p>
     <center>
           <a href="mailto:kapoor4798.vk@gmail.com">Email</a> |
           <a href="https://www.linkedin.com/in/vansh-kapoor-939347284/">LinkedIn</a> | 
@@ -24,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Hey! I am Vansh, a final year Undergraduate at [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web/index.php), [IIT Bombay](https://www.iitb.ac.in/). I am pursuing a Bachelor of Technology (B.Tech) in Electrical Engineering along with Honors. My enthusiasm greatly lies in exploring the realm of applied probability and stochastic theory. More specifically, I am inclined towards applications of concepts such as Reinforcement Learning, Queuing Theory, Multi-Arm Bandits and Game Theory to optimize Computer Networks and Digital Communication.
+Hey! I am Vansh, a final year Undergraduate at [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web/index.php), [IIT Bombay](https://www.iitb.ac.in/). I am pursuing a Bachelor of Technology (B.Tech) in Electrical Engineering along with Honors. My enthusiasm greatly lies in exploring the realm of applied probability and machine learning. More specifically, I am interested in the fields of Reinforcement Learning, Stochastic Modeling, Online Learning, Stochastic Optimzation and Game Theory.
 
 
 Currently I am working with Prof. Jayakrishnan Nair on a special case of discounted cost [POMDP (Partially Observable Markov Decision Processes)](/research). At the moment, I am also actively engaged as a Teaching Assistant for a course I deeply enjoy: Error Correcting Codes, taught by Prof. Nikhil Karamchandani.
