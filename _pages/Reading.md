@@ -4,7 +4,7 @@ title: Readings
 permalink: /Reading-Projects/
 description:
 display_categories: [work, fun]
-nav: true
+nav: false
 horizontal: false
 ---
 
