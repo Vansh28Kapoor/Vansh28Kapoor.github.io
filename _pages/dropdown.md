@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
+title: Projects
 nav: true
-nav_order: 6
+nav_order: 2
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: Technical Projects
+      permalink: /Technical-Projects/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: Reading Projects
+      permalink: /Reading-Projects/
 ---
