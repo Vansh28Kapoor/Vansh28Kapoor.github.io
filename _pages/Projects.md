@@ -17,11 +17,17 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
 ## Technical Projects
 
 #### 1. **[Reinforcement Learning](/projects/RL)**  
-  [_CS 747: Foundations of Intelligent and Learning Agents_](https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2022/index.html), [_Prof. Shivaram Kalyanakrishnan_](https://www.cse.iitb.ac.in/~shivaram/)
+<div style="margin-left: 20px;">
+  <a href="https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2022/index.html">CS 747: Foundations of Intelligent and Learning Agents</a>, 
+  <a href="https://www.cse.iitb.ac.in/~shivaram/">Prof. Shivaram Kalyanakrishnan</a>
+</div>
+
+<div style="height: 20px;"></div> <!-- Empty div for spacing -->
 
 <p align="center">
     <img width="450" src="/img/bandit.gif">
 </p>
+
 
    <div style="margin-left: 20px;">
      Designed and implemented intelligent agents with a strong foundation in intelligence and learning. <a href="/projects/RL">Read More</a>
