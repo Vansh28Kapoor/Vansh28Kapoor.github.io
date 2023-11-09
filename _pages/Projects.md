@@ -47,7 +47,7 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
 
 
   <div style="margin-left: 20px;">
-      As a part of the endterm project for the course, developed a rapid real-time multi-face detector that utilizes “Integral Image Representation” for rapid          computation of Haar features, subsequently used by Adaboost for classifier learning. [Read More](/projects/Multi-face)
+      As a part of the endterm project for the course, developed a rapid real-time multi-face detector that utilizes “Integral Image Representation” for rapid          computation of Haar features, subsequently used by Adaboost for classifier learning. <a href="/projects/Multi-face">Read More</a>
   </div>
 
 #### 3. **[Raptor Codes](/projects/Raptor-Codes)**  
@@ -63,7 +63,7 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
 </p>
 
    <div style="margin-left: 20px;">
-Simulated digital message transmission utilizing Raptor codes and delivered a concise talk showcasing the significance of Raptor codes as a contemporary coding technique as a component of the course endterm project. [Read More](/projects/Raptor-Codes)
+Simulated digital message transmission utilizing Raptor codes and delivered a concise talk showcasing the significance of Raptor codes as a contemporary coding technique as a component of the course endterm project. <a href="/projects/Raptor-Codes">Read More</a>
        </div>
 
 #### 4. **[Biomedical Image Segmentation Using Deep Learning](/projects/Image-Segmentation)**    
@@ -79,7 +79,7 @@ Simulated digital message transmission utilizing Raptor codes and delivered a co
 </p>
 
    <div style="margin-left: 20px;">
-Utilization of a multi-organ transfer learning approach using U-Net architecture tailored for binary semantic segmentation for distinguishing between nucleus and non-nucleus regions in stained tissue images. [Read More](/projects/Image-Segmentation) 
+Utilization of a multi-organ transfer learning approach using U-Net architecture tailored for binary semantic segmentation for distinguishing between nucleus and non-nucleus regions in stained tissue images. <a href="/projects/Image-Segmentation">Read More</a> 
   </div>
 
 #### 5. **[Multi-Faceted Image Restoration and Enhancement](/projects/Image-Restoration)** 
@@ -95,7 +95,7 @@ Utilization of a multi-organ transfer learning approach using U-Net architecture
 </p>
 
    <div style="margin-left: 20px;">
-Wide-ranging and challenging problem statements which dealt with implementing a research-based technique properties of neighbouring wavelet coefficients for image denoising, image restoration of motion-blurred cars to effectively reveal license plate characters, and satellite image enhancement. 
+Wide-ranging and challenging problem statements which dealt with implementing a research-based technique properties of neighbouring wavelet coefficients for image denoising, image restoration of motion-blurred cars to effectively reveal license plate characters, and satellite image enhancement. <a href="/projects/Image-Restoration">Read More</a>
   </div>
   
 #### 6. **[Algorithmic Design of Communication Systems](/projects/Communication-Systems)** 
@@ -111,7 +111,7 @@ Wide-ranging and challenging problem statements which dealt with implementing a 
 </p>
 
    <div style="margin-left: 20px;">
-Evaluated the performance of Costas Loop and Viterbi-Viterbi algorithms in discrete-time for phase and frequency offset removal in incoming signals. Implemented equalization filter design to negate the effect of ISI (Intersymbol Interference) on the digitally transmitted message suffering multipath reflection with the help of GNU Radio.
+Evaluated the performance of Costas Loop and Viterbi-Viterbi algorithms in discrete-time for phase and frequency offset removal in incoming signals. Implemented equalization filter design to negate the effect of ISI (Intersymbol Interference) on the digitally transmitted message suffering multipath reflection with the help of GNU Radio. <a href="/projects/Communication-Systems">Read More</a> 
   </div>
 
 #### 7. **Six-Stage Pipelined Microprocessor** 
@@ -126,8 +126,9 @@ Evaluated the performance of Costas Loop and Viterbi-Viterbi algorithms in discr
     <img width="400" src="/assets/img/risc.PNG">
 </p>
 
-
-Designed the architecture of a RISC microprocessor which included all the hazard mitigation techniques like forwarding and branch prediction. The architecture allowed predicated instruction execution and multiple load and store execution. [Read More](/projects/RISC)
+   <div style="margin-left: 20px;">
+Designed the architecture of a RISC microprocessor which included all the hazard mitigation techniques like forwarding and branch prediction. The architecture allowed predicated instruction execution and multiple load and store execution. <a href="/projects/RISC">Read More</a>
+  </div>
 
 ## Reading Projects  
 #### 1. **Stochastic Optimization**  [[Report]](/assets/pdf/Reading_Project.pdf)
