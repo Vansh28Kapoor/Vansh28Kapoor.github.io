@@ -35,9 +35,8 @@ Collaborators:
 - <a href="https://www.ee.iitb.ac.in/~jayakrishnan.nair">Prof. Jayakrishnan Nair</a> (EE, IIT Bombay)
 - <a href="https://sites.google.com/site/nikhilkaram/">Prof. Nikhil Karamchandani</a> (EE, IIT Bombay)
 - <a href="https://www.linkedin.com/in/manish-jain-kj2020/">Dr. Manish Jain</a> (Google AI Research)
-- <a href="https://www.ee.iitb.ac.in/web/people/faculty/home/borkar">Prof. Vivek S. Borkar</a> (EE, IIT Bombay)
+- <a href="https://www.ee.iitb.ac.in/web/people/vivek-shripad-borkar/">Prof. Vivek S. Borkar</a> (EE, IIT Bombay)
 - <a href="https://www.ee.iitb.ac.in/~asethi/">Prof. Amit Sethi</a> (EE, IIT Bombay)
-- <a href="https://www.linkedin.com/in/r7jindal/">Rohit Jindal</a> (Senior Design Manager, Google)
 - <a href="https://www.linkedin.com/in/ravi-mangal-1a784318/">Ravi Mangal</a> (Engineering Manager, Google) 
 
 
