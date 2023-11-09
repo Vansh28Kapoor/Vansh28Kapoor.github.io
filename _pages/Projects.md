@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
-description: My Technical Projects
-nav_order: 2
+title: Technical
+permalink: /Technical-Projects/
+description:
 display_categories: [work, fun]
 nav: true
 horizontal: false
@@ -16,7 +15,7 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
 
 ## Technical Projects
 
-#### 1. **[Reinforcement Learning](/projects/RL)**  
+#### 1. **Reinforcement Learning**  
 <div style="margin-left: 20px;">
   <a href="https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2022/index.html">CS 747: Foundations of Intelligent and Learning Agents</a>, 
   <a href="https://www.cse.iitb.ac.in/~shivaram/">Prof. Shivaram Kalyanakrishnan</a>
@@ -33,7 +32,7 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
      Designed and implemented intelligent agents with a strong foundation in intelligence and learning. <a href="/projects/RL">Read More</a>
    </div>
 
-#### 2. **[Rapid Real-Time Multi-Face Detection](/projects/Multi-face)**  
+#### 2. **Rapid Real-Time Multi-Face Detection**  
 <div style="margin-left: 20px;">
   <a href="https://www.ee.iitb.ac.in/web/course_lists/ee-768-introduction-to-machine-learning/">EE 769: Introduction to Machine Learning</a>, 
   <a href="https://www.ee.iitb.ac.in/~asethi/">Prof. Amit Sethi</a>
@@ -50,7 +49,7 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
       As a part of the endterm project for the course, developed a rapid real-time multi-face detector that utilizes “Integral Image Representation” for rapid          computation of Haar features, subsequently used by Adaboost for classifier learning. <a href="/projects/Multi-face">Read More</a>
   </div>
 
-#### 3. **[Raptor Codes](/projects/Raptor-Codes)**  
+#### 3. **Raptor Codes**  
 <div style="margin-left: 20px;">
   <a href="https://www.ee.iitb.ac.in/web/course_lists/ee-605-error-correcting-codes/">EE 605: Error Correcting Codes</a>, 
   <a href="https://sites.google.com/site/nikhilkaram/">Prof. Nikhil Karamchandani</a>
@@ -66,7 +65,7 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
 Simulated digital message transmission utilizing Raptor codes and delivered a concise talk showcasing the significance of Raptor codes as a contemporary coding technique as a component of the course endterm project. <a href="/projects/Raptor-Codes">Read More</a>
        </div>
 
-#### 4. **[Biomedical Image Segmentation Using Deep Learning](/projects/Image-Segmentation)**    
+#### 4. **Biomedical Image Segmentation Using Deep Learning**    
 <div style="margin-left: 20px;">
   <a href="https://www.ee.iitb.ac.in/web/course_lists/ee-610-image-processing/">EE 610: Image Processing</a>, 
   <a href="https://www.ee.iitb.ac.in/~asethi/">Prof. Amit Sethi</a>
@@ -82,7 +81,7 @@ Simulated digital message transmission utilizing Raptor codes and delivered a co
 Utilization of a multi-organ transfer learning approach using U-Net architecture tailored for binary semantic segmentation for distinguishing between nucleus and non-nucleus regions in stained tissue images. <a href="/projects/Image-Segmentation">Read More</a> 
   </div>
 
-#### 5. **[Multi-Faceted Image Restoration and Enhancement](/projects/Image-Restoration)** 
+#### 5. **Multi-Faceted Image Restoration and Enhancement** 
 <div style="margin-left: 20px;">
   <a href="https://www.ee.iitb.ac.in/web/course_lists/ee-610-image-processing/">EE 610: Image Processing</a>, 
   <a href="https://www.ee.iitb.ac.in/~asethi/">Prof. Amit Sethi</a>
@@ -98,7 +97,7 @@ Utilization of a multi-organ transfer learning approach using U-Net architecture
 Wide-ranging and challenging problem statements which dealt with implementing a research-based technique properties of neighbouring wavelet coefficients for image denoising, image restoration of motion-blurred cars to effectively reveal license plate characters, and satellite image enhancement. <a href="/projects/Image-Restoration">Read More</a>
   </div>
   
-#### 6. **[Algorithmic Design of Communication Systems](/projects/Communication-Systems)** 
+#### 6. **Algorithmic Design of Communication Systems** 
 <div style="margin-left: 20px;">
   <a href="https://www.ee.iitb.ac.in/web/course_lists/ee-341-communication-systems-i/">EE 341: Communication Systems Lab</a>, 
   <a href="https://www.ee.iitb.ac.in/~jayakrishnan.nair/">Prof. Jayakrishnan Nair</a>
