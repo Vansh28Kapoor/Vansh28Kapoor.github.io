@@ -7,9 +7,20 @@ permalink: /projects/RL/
 
   [_CS 747: Foundations of Intelligent Learning Agents_](https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2023/index.html), [_Prof. Shivaram Kalyanakrishnan_](https://www.cse.iitb.ac.in/~shivaram/) 
 
+  <div style="display: flex;">
+    <a href="/assets/pdf/Billiards.pdf" style="flex: 1; padding: 10px; border: 1px solid grey; text-align: center; text-decoration: none;">
+        <div style="font-weight: bold; color: orchid;">Slides</div>
+    </a>
+    <a href="https://github.com/Vansh28Kapoor/Reinforcement-Learning" style="flex: 1; padding: 10px; border: 1px solid grey; text-align: center; text-decoration: none;">
+        <div style="font-weight: bold; color: orchid;">GitHub</div>
+    </a>
+</div>
+
+<br>
+
 ## 1. Reinforcement Learning for Playing Billiards
 <p align="center">
-    <img width="450"  src="/assets/img/costas.png">
+    <img width="450"  src="/assets/img/pool.gif">
 </p>
 
 The task of this project is to code an agent that provides us with optimal force and angle at which the cue ball has to be struck, such that it pots all the solid balls within the maximum tries limit. In order to mimic real scenarios where high force to cue ball cultivates to less control, guassian noise proportional to the force is added to the angle provided by the agent to the cue ball.
@@ -22,16 +33,9 @@ My intermediate experiments that made be realize the importance of tree search, 
 
 ## 2. MDP Planning for Half-Field Offense in Football  
 <p align="center">
-    <img width="450"  src="/assets/img/football.gif">
+    <img width="250"  src="/assets/img/football.gif">
 </p>
 For any input Markov Decision Process (MDP), I coded up a MDP-planner that can use Value Iteration, Linear Programming or Howard's Policy Iteration to find the optimal policy V* for the MDP. Furthermore using  MDP Planning, I devised a strategy to maximize the  goal-scoring probabilities for a two-player football team attempting to score a goal against a single opponent in a game of football. In such a formulation of the MDP, my Value function of a state is the expected number of goals starting from the initial state.
 <p align="center">
     <img width="450"  src="/assets/img/policy.jpg">
 </p>
-
-## 3. Faulty Multi-Arm Bandits 
-<p align="center">
-    <img width="500"  src="/assets/img/opt_alg.png">
-</p>
-
-Worked on a bandit instance where pulls are no longer guaranteed to be successful and have a probability of giving faulty outputs sampled uniformly from $0$ and $1$. Derived and implemented an asymptotically optimal algorithm to minimize expected cumulative regret. The algorithm employs $Beta$ distribution sampling, similar to Thompson Sampling, while also updating its belief over the arm means based on the probability of a faulty pull.
