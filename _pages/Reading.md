@@ -36,12 +36,14 @@ Conducted an intense literature review on the convex analytic method for infinit
 </p>
 
 
-Explored various results on Bipartite consensus of general linear multi-agent systems and Bipartite consensus in networks of agents with antagonistic interactions by Performing thorough literature review. The objective is on finding out the condition for the existence of the control parameter K for which Bi-partite Consensus is possible when the agents are all linear systems with different state-space representations
+Explored various results on Bipartite consensus of general linear multi-agent systems and Bipartite consensus in networks of agents with antagonistic interactions.  Our objective is to find out the condition for the existence of the control parameter K for which Bi-partite Consensus is possible when the agents are all linear systems with different state-space representations.
 
 #### 3. **Game Theory and Algorithic Design**  [[Report]](/assets/pdf/game.pdf) 
 <div style="margin-left: 20px;">
     <em>Summer of Science, Spring 2023</em>
 </p>
+
+<div style="height: 20px;"></div> <!-- Empty div for spacing -->
 
 <p align="center">
     <img width="400" src="/assets/img/games.png">
