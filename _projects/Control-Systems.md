@@ -29,7 +29,7 @@ Designed and implemented a PID controller for a line follower Spark V robot that
 <p align="center">
     <img height="250" src="/assets/img/headphones.gif">
 </p>
-The objective of the experiment was to create and integrate an active noise-cancellation circuit into a pair of headphones, with the goal of achieving a 20dB reduction in noise when exposed to a 100Hz frequency sound source. Through our design process and MATLAB analysis, we carefully crafted a lead-lag compensator with precisely tuned parameters, ensuring it aligns with our primary objective of reducing noise by a minimum of 20dB. The designed compensator achieved a gain margin of 10.2 dB and phase margin of 50° to ensure robustness.  In practical testing with a 100Hz noise source, it showcased an impressive attenuation of 20.2 dB.
+The objective of the experiment was to design and integrate an active noise-cancellation circuit into a pair of headphones, with the goal of achieving a 20dB reduction in noise when exposed to a 100Hz frequency sound source. Through our design process and MATLAB analysis, we carefully crafted a lead-lag compensator with precisely tuned parameters, ensuring it aligns with our primary objective of reducing noise by a minimum of 20dB. The designed compensator achieved a gain margin of 10.2 dB and phase margin of 50° to ensure robustness.  In practical testing with a 100Hz noise source, it showcased an impressive attenuation of 20.2 dB.
 
 ## 3. DC Motor Position Control
 <br>
