@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Technical Projects
-permalink: /Technical-Projects/
+permalink: /projects/
 description:
 display_categories: [work, fun]
 nav: false
