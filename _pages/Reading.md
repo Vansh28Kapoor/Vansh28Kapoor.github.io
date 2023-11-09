@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Readings
+title: Readings Projects
 permalink: /Reading-Projects/
 description:
 display_categories: [work, fun]
