@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Readings Projects
-permalink: /Reading-Projects/
+permalink: /reading/
 description:
 display_categories: [work, fun]
 nav: false
