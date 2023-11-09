@@ -15,7 +15,7 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
 
 ## Technical Projects
 
-#### 1. **Reinforcement Learning**  
+#### 1. **Online Learning**  
 <div style="margin-left: 20px;">
   <a href="https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2022/index.html">CS 747: Foundations of Intelligent and Learning Agents</a>, 
   <a href="https://www.cse.iitb.ac.in/~shivaram/">Prof. Shivaram Kalyanakrishnan</a>
@@ -29,7 +29,7 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
 
 
    <div style="margin-left: 20px;">
-     Designed and implemented intelligent agents with a strong foundation in intelligence and learning. <a href="/projects/RL">Read More</a>
+     Derived and implemented an asymptotically optimal algorithm based on Bayesian inference for a faulty Multi-Arm Bandit instance. Implemented variants of Thompson Sampling and KL-UCB for solving a Batched Multi-Arm Bandit Problem <a href="/projects/Online-Learning">Read More</a>
    </div>
 </br>
 
