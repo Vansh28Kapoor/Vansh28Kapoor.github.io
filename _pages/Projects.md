@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Technical
+title: Technical Projects
 permalink: /Technical-Projects/
 description:
 display_categories: [work, fun]
