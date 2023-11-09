@@ -4,7 +4,7 @@ title: Technical
 permalink: /Technical-Projects/
 description:
 display_categories: [work, fun]
-nav: true
+nav: false
 horizontal: false
 ---
 
