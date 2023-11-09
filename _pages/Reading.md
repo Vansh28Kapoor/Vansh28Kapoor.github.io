@@ -1,15 +1,13 @@
 ---
 layout: page
-title: Reading Projects
+title: Readings
 permalink: /Reading-Projects/
 description:
-nav_order: 2
 display_categories: [work, fun]
 nav: true
 horizontal: false
 ---
 
-## Reading Projects  
 #### 1. **Stochastic Optimization**  [[Report]](/assets/pdf/Reading_Project.pdf)
 <div style="margin-left: 20px;">
   <a href="https://www.ee.iitb.ac.in/web/course_lists/ee-736-introduction-to-stochastic-optimization/">EE736: Introduction to Stochastic Optimization</a>, 
