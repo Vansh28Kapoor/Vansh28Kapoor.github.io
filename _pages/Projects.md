@@ -46,9 +46,9 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
 </p>
 
 
-     <div style="margin-left: 20px;">
-As a part of the endterm project for the course, developed a rapid real-time multi-face detector that utilizes “Integral Image Representation” for rapid computation of Haar features, subsequently used by Adaboost for classifier learning. [Read More](/projects/Multi-face)
-   </div>
+  <div style="margin-left: 20px;">
+      As a part of the endterm project for the course, developed a rapid real-time multi-face detector that utilizes “Integral Image Representation” for rapid          computation of Haar features, subsequently used by Adaboost for classifier learning. [Read More](/projects/Multi-face)
+  </div>
 
 #### 3. **[Raptor Codes](/projects/Raptor-Codes)**  
 <div style="margin-left: 20px;">
@@ -62,8 +62,9 @@ As a part of the endterm project for the course, developed a rapid real-time mul
     <img width="450" src="/img/Raptor.png">
 </p>
 
-   
-Simulated digital message transmission utilizing Raptor codes and delivered a concise talk showcasing the significance of Raptor codes as a contemporary coding technique as a component of the course endterm project. [Read More](/projects/Raptor-Codes) 
+   <div style="margin-left: 20px;">
+Simulated digital message transmission utilizing Raptor codes and delivered a concise talk showcasing the significance of Raptor codes as a contemporary coding technique as a component of the course endterm project. [Read More](/projects/Raptor-Codes)
+       </div>
 
 #### 4. **[Biomedical Image Segmentation Using Deep Learning](/projects/Image-Segmentation)**    
 <div style="margin-left: 20px;">
@@ -77,8 +78,9 @@ Simulated digital message transmission utilizing Raptor codes and delivered a co
     <img width="300" height="280" src="/assets/img/Bio.gif">
 </p>
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;Utilization of a multi-organ transfer learning approach using U-Net architecture tailored for binary semantic segmentation for distinguishing between nucleus and non-nucleus regions in stained tissue images. [Read More](/projects/Image-Segmentation) 
+   <div style="margin-left: 20px;">
+Utilization of a multi-organ transfer learning approach using U-Net architecture tailored for binary semantic segmentation for distinguishing between nucleus and non-nucleus regions in stained tissue images. [Read More](/projects/Image-Segmentation) 
+  </div>
 
 #### 5. **[Multi-Faceted Image Restoration and Enhancement](/projects/Image-Restoration)** 
 <div style="margin-left: 20px;">
@@ -92,10 +94,11 @@ Simulated digital message transmission utilizing Raptor codes and delivered a co
     <img width="480" height="250" src="/assets/img/Multi.gif">
 </p>
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;Wide-ranging and challenging problem statements which dealt with implementing a research-based technique properties of neighbouring wavelet coefficients for image denoising, image restoration of motion-blurred cars to effectively reveal license plate characters, and satellite image enhancement. 
-
-#### 6. **Algorithmic Design of Communication Systems](/projects/Communication-Systems)** 
+   <div style="margin-left: 20px;">
+Wide-ranging and challenging problem statements which dealt with implementing a research-based technique properties of neighbouring wavelet coefficients for image denoising, image restoration of motion-blurred cars to effectively reveal license plate characters, and satellite image enhancement. 
+  </div>
+  
+#### 6. **[Algorithmic Design of Communication Systems](/projects/Communication-Systems)** 
 <div style="margin-left: 20px;">
   <a href="https://www.ee.iitb.ac.in/web/course_lists/ee-341-communication-systems-i/">EE 341: Communication Systems Lab</a>, 
   <a href="https://www.ee.iitb.ac.in/~jayakrishnan.nair/">Prof. Jayakrishnan Nair</a>
@@ -107,8 +110,9 @@ Simulated digital message transmission utilizing Raptor codes and delivered a co
     <img width="450" height="280" src="/img/costas.png">
 </p>
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;Evaluated the performance of Costas Loop and Viterbi-Viterbi algorithms in discrete-time for phase and frequency offset removal in incoming signals. Implemented equalization filter design to negate the effect of ISI (Intersymbol Interference) on the digitally transmitted message suffering multipath reflection with the help of GNU Radio.
+   <div style="margin-left: 20px;">
+Evaluated the performance of Costas Loop and Viterbi-Viterbi algorithms in discrete-time for phase and frequency offset removal in incoming signals. Implemented equalization filter design to negate the effect of ISI (Intersymbol Interference) on the digitally transmitted message suffering multipath reflection with the help of GNU Radio.
+  </div>
 
 #### 7. **Six-Stage Pipelined Microprocessor** 
 <div style="margin-left: 20px;">
