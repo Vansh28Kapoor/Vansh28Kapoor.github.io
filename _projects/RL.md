@@ -9,7 +9,7 @@ permalink: /projects/RL/
 
   <div style="display: flex;">
     <a href="/assets/pdf/Billiards.pdf" style="flex: 1; padding: 10px; border: 1px solid grey; text-align: center; text-decoration: none;">
-        <div style="font-weight: bold; color: orchid;">Slides</div>
+        <div style="font-weight: bold; color: orchid;">Report</div>
     </a>
     <a href="https://github.com/Vansh28Kapoor/Reinforcement-Learning" style="flex: 1; padding: 10px; border: 1px solid grey; text-align: center; text-decoration: none;">
         <div style="font-weight: bold; color: orchid;">GitHub</div>
