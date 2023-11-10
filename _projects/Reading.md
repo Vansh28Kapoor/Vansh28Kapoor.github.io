@@ -41,7 +41,7 @@ Explored various results on Bipartite consensus of general linear multi-agent sy
 #### 3. **Game Theory and Algorithic Design**  [[Report]](/assets/pdf/game.pdf) 
 <div style="margin-left: 20px;">
     <em>Summer of Science, Spring 2023</em>
-</p>
+</div>
 
 <div style="height: 20px;"></div> <!-- Empty div for spacing -->
 
