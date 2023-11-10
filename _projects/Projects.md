@@ -15,7 +15,25 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
 
 ## Technical Projects
 
-#### 1. **Online Learning**  
+#### 1. **Reinforcement Learning in Billiards, Football, and Cricket**  
+<div style="margin-left: 20px;">
+  <a href="https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2022/index.html">CS 747: Foundations of Intelligent and Learning Agents</a>, 
+  <a href="https://www.cse.iitb.ac.in/~shivaram/">Prof. Shivaram Kalyanakrishnan</a>
+</div>
+
+<div style="height: 20px;"></div> <!-- Empty div for spacing -->
+
+<p align="center">
+    <img width="450"  src="/assets/img/pool.gif">
+</p>
+
+
+   <div style="margin-left: 20px;">
+     Designed agents utilizing Monte-Carlo Tree Search (MCTS) in Billiards, developing optimal strategies through MDP-Planning for scoring goals in Half-Field Offense Football, and executing a successful run chase in cricket. <a href="/projects/RL">Read More</a>
+   </div>   
+<br>
+
+#### 2. **Online Learning**  
 <div style="margin-left: 20px;">
   <a href="https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2022/index.html">CS 747: Foundations of Intelligent and Learning Agents</a>, 
   <a href="https://www.cse.iitb.ac.in/~shivaram/">Prof. Shivaram Kalyanakrishnan</a>
@@ -29,11 +47,11 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
 
 
    <div style="margin-left: 20px;">
-     Derived and implemented an asymptotically optimal algorithm based on Bayesian inference for a faulty Multi-Arm Bandit instance. Implemented variants of Thompson Sampling and KL-UCB for solving a Batched Multi-Arm Bandit Problem <a href="/projects/Online-Learning">Read More</a>
+     Derived and implemented an asymptotically optimal algorithm based on Bayesian inference for a faulty Multi-Arm Bandit instance. Implemented variants of Thompson Sampling and KL-UCB for solving a Batched Multi-Arm Bandit Problem. <a href="/projects/Online-Learning">Read More</a>
    </div>   
 <br>
 
-#### 2. **Rapid Real-Time Multi-Face Detection**  
+#### 3. **Rapid Real-Time Multi-Face Detection**  
 <div style="margin-left: 20px;">
   <a href="https://www.ee.iitb.ac.in/web/course_lists/ee-768-introduction-to-machine-learning/">EE 769: Introduction to Machine Learning</a>, 
   <a href="https://www.ee.iitb.ac.in/~asethi/">Prof. Amit Sethi</a>
@@ -51,7 +69,7 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
   </div>
 <br>
 
-#### 6. **Implementation of Control Systems** 
+#### 4. **Implementation of Control Systems** 
 <div style="margin-left: 20px;">
   <a href="https://www.ee.iitb.ac.in/web/course_lists/ee-324-control-systems-laboratory/">EE 324: Control Systems Laboratory</a>, 
   <a href="https://www.ee.iitb.ac.in/web/people/dwaipayan-mukherjee/">Prof. Dwaipayan Mukherjee</a>
@@ -68,7 +86,7 @@ Implemented a PID controller for a line follower Spark V robot, designed active 
   </div>  
 <br>
 
-#### 4. **Biomedical Image Segmentation Using Deep Learning**    
+#### 5. **Biomedical Image Segmentation Using Deep Learning**    
 <div style="margin-left: 20px;">
   <a href="https://www.ee.iitb.ac.in/web/course_lists/ee-610-image-processing/">EE 610: Image Processing</a>, 
   <a href="https://www.ee.iitb.ac.in/~asethi/">Prof. Amit Sethi</a>
@@ -85,7 +103,7 @@ Utilization of a multi-organ transfer learning approach using U-Net architecture
   </div>
 <br>
 
-#### 5. **Multi-Faceted Image Restoration and Enhancement** 
+#### 6. **Multi-Faceted Image Restoration and Enhancement** 
 <div style="margin-left: 20px;">
   <a href="https://www.ee.iitb.ac.in/web/course_lists/ee-610-image-processing/">EE 610: Image Processing</a>, 
   <a href="https://www.ee.iitb.ac.in/~asethi/">Prof. Amit Sethi</a>
@@ -102,7 +120,7 @@ Wide-ranging and challenging problem statements which dealt with implementing a 
   </div>
 <br>
 
-#### 3. **Raptor Codes**  
+#### 7. **Raptor Codes**  
 <div style="margin-left: 20px;">
   <a href="https://www.ee.iitb.ac.in/web/course_lists/ee-605-error-correcting-codes/">EE 605: Error Correcting Codes</a>, 
   <a href="https://sites.google.com/site/nikhilkaram/">Prof. Nikhil Karamchandani</a>
@@ -119,7 +137,7 @@ Simulated digital message transmission utilizing Raptor codes and delivered a co
        </div>
 <br>
  
-#### 7. **Algorithmic Design of Communication Systems** 
+#### 8. **Algorithmic Design of Communication Systems** 
 <div style="margin-left: 20px;">
   <a href="https://www.ee.iitb.ac.in/web/course_lists/ee-341-communication-systems-i/">EE 341: Communication Systems Lab</a>, 
   <a href="https://www.ee.iitb.ac.in/~jayakrishnan.nair/">Prof. Jayakrishnan Nair</a>
@@ -136,7 +154,7 @@ Evaluated the performance of Costas Loop and Viterbi-Viterbi algorithms in discr
   </div>
 <br>
 
-#### 8. **Six-Stage Pipelined Microprocessor** 
+#### 9. **Six-Stage Pipelined Microprocessor** 
 <div style="margin-left: 20px;">
   <a href="https://www.ee.iitb.ac.in/web/course_lists/ee-309-microprocessors/">EE309, Microprocessors</a>, 
   <a href="https://www.ee.iitb.ac.in/~viren/">Prof. Virendra Singh</a>
