@@ -15,7 +15,26 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
 
 ## Technical Projects
 
-#### 1. **Reinforcement Learning in Billiards, Football, and Cricket**  
+#### 1. **Deep Recurrent Q-Learning for Partially Observable MDPs**
+<div style="margin-left: 20px;">
+  <a href="https://www.ee.iitb.ac.in/web/course_lists/ee-782-advanced-machine-learning/">EE 782: Advanced Topics in Machine Learning</a>, 
+  <a href="https://www.ee.iitb.ac.in/~asethi/">Prof. Amit Sethi</a>
+</div>
+
+<div style="height: 20px;"></div> <!-- Empty div for spacing -->
+
+<p align="center">
+    <img width="450"  src="/assets/img/DQRN.gif">
+</p>
+
+
+   <div style="margin-left: 20px;">
+     Implemented RL-LSTM-Q Network, which integrates information across frames to detect relevant
+information and handle noisy POMDP observations, despite handling only a single frame at each time-step. <a href="/projects/DQRN">Read More</a>
+   </div>   
+<br>
+
+#### 2. **Reinforcement Learning in Billiards, Football, and Cricket**  
 <div style="margin-left: 20px;">
   <a href="https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2022/index.html">CS 747: Foundations of Intelligent and Learning Agents</a>, 
   <a href="https://www.cse.iitb.ac.in/~shivaram/">Prof. Shivaram Kalyanakrishnan</a>
@@ -33,7 +52,7 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
    </div>   
 <br>
 
-#### 2. **Online Learning**  
+#### 3. **Online Learning**  
 <div style="margin-left: 20px;">
   <a href="https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2022/index.html">CS 747: Foundations of Intelligent and Learning Agents</a>, 
   <a href="https://www.cse.iitb.ac.in/~shivaram/">Prof. Shivaram Kalyanakrishnan</a>
@@ -51,7 +70,7 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
    </div>   
 <br>
 
-#### 3. **Rapid Real-Time Multi-Face Detection**  
+#### 4. **Rapid Real-Time Multi-Face Detection**  
 <div style="margin-left: 20px;">
   <a href="https://www.ee.iitb.ac.in/web/course_lists/ee-768-introduction-to-machine-learning/">EE 769: Introduction to Machine Learning</a>, 
   <a href="https://www.ee.iitb.ac.in/~asethi/">Prof. Amit Sethi</a>
@@ -69,7 +88,7 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
   </div>
 <br>
 
-#### 4. **Implementation of Control Systems** 
+#### 5. **Implementation of Control Systems** 
 <div style="margin-left: 20px;">
   <a href="https://www.ee.iitb.ac.in/web/course_lists/ee-324-control-systems-laboratory/">EE 324: Control Systems Laboratory</a>, 
   <a href="https://www.ee.iitb.ac.in/web/people/dwaipayan-mukherjee/">Prof. Dwaipayan Mukherjee</a>
@@ -86,7 +105,7 @@ Implemented a PID controller for a line follower Spark V robot, designed active 
   </div>  
 <br>
 
-#### 5. **Biomedical Image Segmentation Using Deep Learning**    
+#### 6. **Biomedical Image Segmentation Using Deep Learning**    
 <div style="margin-left: 20px;">
   <a href="https://www.ee.iitb.ac.in/web/course_lists/ee-610-image-processing/">EE 610: Image Processing</a>, 
   <a href="https://www.ee.iitb.ac.in/~asethi/">Prof. Amit Sethi</a>
@@ -103,7 +122,7 @@ Utilization of a multi-organ transfer learning approach using U-Net architecture
   </div>
 <br>
 
-#### 6. **Multi-Faceted Image Restoration and Enhancement** 
+#### 7. **Multi-Faceted Image Restoration and Enhancement** 
 <div style="margin-left: 20px;">
   <a href="https://www.ee.iitb.ac.in/web/course_lists/ee-610-image-processing/">EE 610: Image Processing</a>, 
   <a href="https://www.ee.iitb.ac.in/~asethi/">Prof. Amit Sethi</a>
@@ -120,7 +139,7 @@ Wide-ranging and challenging problem statements which dealt with implementing a 
   </div>
 <br>
 
-#### 7. **Raptor Codes**  
+#### 8. **Raptor Codes**  
 <div style="margin-left: 20px;">
   <a href="https://www.ee.iitb.ac.in/web/course_lists/ee-605-error-correcting-codes/">EE 605: Error Correcting Codes</a>, 
   <a href="https://sites.google.com/site/nikhilkaram/">Prof. Nikhil Karamchandani</a>
@@ -137,7 +156,7 @@ Simulated digital message transmission utilizing Raptor codes and delivered a co
        </div>
 <br>
  
-#### 8. **Algorithmic Design of Communication Systems** 
+#### 9. **Algorithmic Design of Communication Systems** 
 <div style="margin-left: 20px;">
   <a href="https://www.ee.iitb.ac.in/web/course_lists/ee-341-communication-systems-i/">EE 341: Communication Systems Lab</a>, 
   <a href="https://www.ee.iitb.ac.in/~jayakrishnan.nair/">Prof. Jayakrishnan Nair</a>
@@ -154,7 +173,7 @@ Evaluated the performance of Costas Loop and Viterbi-Viterbi algorithms in discr
   </div>
 <br>
 
-#### 9. **Six-Stage Pipelined Microprocessor** 
+#### 10. **Six-Stage Pipelined Microprocessor** 
 <div style="margin-left: 20px;">
   <a href="https://www.ee.iitb.ac.in/web/course_lists/ee-309-microprocessors/">EE309, Microprocessors</a>, 
   <a href="https://www.ee.iitb.ac.in/~viren/">Prof. Virendra Singh</a>
