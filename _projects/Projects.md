@@ -2,7 +2,7 @@
 layout: page
 title: Technical Projects
 permalink: /projects/
-description: My Top 10 Technical Projects!
+description:
 display_categories: [work, fun]
 nav: false
 horizontal: false
