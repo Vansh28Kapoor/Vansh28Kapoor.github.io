@@ -30,8 +30,7 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
 
    <div style="margin-left: 20px;">
      Derived and implemented an asymptotically optimal algorithm based on Bayesian inference for a faulty Multi-Arm Bandit instance. Implemented variants of Thompson Sampling and KL-UCB for solving a Batched Multi-Arm Bandit Problem <a href="/projects/Online-Learning">Read More</a>
-   </div>
-   
+   </div>   
 <br>
 
 #### 2. **Rapid Real-Time Multi-Face Detection**  
