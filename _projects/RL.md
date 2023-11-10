@@ -50,7 +50,7 @@ For any input Markov Decision Process (MDP), I coded up a MDP-planner that can u
 
 ## 3. MDP Planning for Cricket
 <p align="center">
-    <img width="450"  src="/assets/img/cricket.png">
+    <img height="200" width="500"  src="/assets/img/cricket.png">
 </p>
 
 In this task, our goal was to identify an optimal batting strategy for a middle-order batter, referred to as batter A, within the context of a cricket game. In contrast to the agent's control over the cue ball in the previous project, batter A operates within the dynamics of the game without any influence over a tail-ender 'B' and the prevailing game conditions.
