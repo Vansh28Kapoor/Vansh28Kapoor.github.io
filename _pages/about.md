@@ -27,8 +27,6 @@ Hey! I am Vansh, a final year Undergraduate at [Department of Electrical Enginee
 
 Currently I am working with <a href="https://www.ee.iitb.ac.in/~jayakrishnan.nair">Prof. Jayakrishnan Nair</a> on a special case of discounted cost [POMDP (Partially Observable Markov Decision Processes)](/Research). I am also collaborating with Google AI Research, where I am closely working with <a href="https://www.linkedin.com/in/manish-jain-kj2020/">Dr. Manish Jain</a> and <a href="https://sites.google.com/site/nikhilkaram/">Prof. Nikhil Karamchandani</a>  to design effective models for understanding the spread of various contagion processes on social networks, particularly focusing on tackling coordinated bot attacks on social platforms. At the moment, I am also actively engaged as a Teaching Assistant for a course I deeply enjoy: Error Correcting Codes, taught by Prof. Nikhil Karamchandani.
 
-Apart from that I love solving brain teasers and puzzles and I always find a way to incorporate it into my schedule. I enjoy playing Table tennis and watching cricket I find profound enjoyment in both playing table tennis and watching cricket, in fact both activities serve as stress relievers for me .
-
 I love solving brain teasers and puzzles and I somehow try fitting them into my daily routine. I enjoy in both playing table tennis and watching cricket (more of a cricket follower rather than a player )
 
 
