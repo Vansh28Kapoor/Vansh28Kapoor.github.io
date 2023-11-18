@@ -12,7 +12,7 @@ nav_order: 3
 I am currently (*Autumn 2023*) a Teaching Assistant for the graduate-level course EE605: Error Correcting Codes. I assisted the instructor in creating
 and grading course assignments and quizzes. I held weekly office hours and remained available throughout the week for online assistance with any questions or concerns. 
 
-## Courses
+# Courses
 
 ### Applied Probability
 -----------------------------------------
