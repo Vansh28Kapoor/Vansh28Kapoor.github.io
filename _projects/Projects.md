@@ -8,14 +8,27 @@ nav: false
 horizontal: false
 ---
 
-## Internship
-**Google India**  
-_Gchips Hardware Intern_  
-During the summer, I undertook my internship at Google as a Gchips Hardware intern. [Read More](/projects/Intership) 
+# Technical Projects
 
-## Technical Projects
+#### 1. **Reinforcement Learning in Billiards, Football, and Cricket**  
+<div style="margin-left: 20px;">
+  <a href="https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2022/index.html">CS 747: Foundations of Intelligent and Learning Agents</a>, 
+  <a href="https://www.cse.iitb.ac.in/~shivaram/">Prof. Shivaram Kalyanakrishnan</a>
+</div>
 
-#### 1. **Deep Recurrent Q-Learning for Partially Observable MDPs**
+<div style="height: 20px;"></div> <!-- Empty div for spacing -->
+
+<p align="center">
+    <img width="450"  src="/assets/img/pool.gif">
+</p>
+
+
+   <div style="margin-left: 20px;">
+     Designed agents utilizing Monte-Carlo Tree Search (MCTS) in Billiards, developing optimal strategies through MDP-Planning for scoring goals in Half-Field Offense Football, and executing a successful run chase in cricket. <a href="/projects/RL">Read More</a>
+   </div>   
+<br>
+
+#### 2. **Deep Recurrent Q-Learning for Partially Observable MDPs**
 <div style="margin-left: 20px;">
   <a href="https://www.ee.iitb.ac.in/web/course_lists/ee-782-advanced-machine-learning/">EE 782: Advanced Topics in Machine Learning</a>, 
   <a href="https://www.ee.iitb.ac.in/~asethi/">Prof. Amit Sethi</a>
@@ -31,24 +44,6 @@ During the summer, I undertook my internship at Google as a Gchips Hardware inte
    <div style="margin-left: 20px;">
      Implemented RL-LSTM-Q Network, which integrates information across frames to detect relevant
 information and handle noisy POMDP observations, despite handling only a single frame at each time-step. <a href="/projects/DQRN">Read More</a>
-   </div>   
-<br>
-
-#### 2. **Reinforcement Learning in Billiards, Football, and Cricket**  
-<div style="margin-left: 20px;">
-  <a href="https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2022/index.html">CS 747: Foundations of Intelligent and Learning Agents</a>, 
-  <a href="https://www.cse.iitb.ac.in/~shivaram/">Prof. Shivaram Kalyanakrishnan</a>
-</div>
-
-<div style="height: 20px;"></div> <!-- Empty div for spacing -->
-
-<p align="center">
-    <img width="450"  src="/assets/img/pool.gif">
-</p>
-
-
-   <div style="margin-left: 20px;">
-     Designed agents utilizing Monte-Carlo Tree Search (MCTS) in Billiards, developing optimal strategies through MDP-Planning for scoring goals in Half-Field Offense Football, and executing a successful run chase in cricket. <a href="/projects/RL">Read More</a>
    </div>   
 <br>
 
