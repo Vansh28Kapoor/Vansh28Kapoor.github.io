@@ -1,9 +1,11 @@
 ---
-layout: cv
-permalink: /cv/
-title: cv
+layout: page
+permalink: /CV/
+title: Curriculum Vitae
 nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
+description:
 ---
+You can download my CV [here](/assets/pdf/Curriculum_Vitae.pdf). (Last updated 20th Nov 2023)
+
+<iframe src="https://vansh28kapoor.github.io/assets/pdf/Curriculum_Vitae.pdf" width="800" height="800"> </iframe>
