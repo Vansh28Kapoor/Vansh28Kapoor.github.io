@@ -31,9 +31,6 @@ I love solving brain teasers and puzzles and I somehow try fitting them into my 
 
 
 
-- <a href="https://www.linkedin.com/in/ravi-mangal-1a784318/">Ravi Mangal</a> (Engineering Manager, Google) -->
-
-
 _If you have similar interests, feel free to hit me up with a mail <a href="mailto:kapoor4798.vk@gmail.com?subject=Hi">here</a>, I would love to chat._
 
 
