@@ -10,7 +10,7 @@ horizontal: false
   [_CS 747: Foundations of Intelligent Learning Agents_](https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2023/index.html), [_Prof. Shivaram Kalyanakrishnan_](https://www.cse.iitb.ac.in/~shivaram/) 
 
   <div style="display: flex;">
-    <a href="/assets/pdf/Billiards.pdf" style="flex: 1; padding: 10px; border: 1px solid grey; text-align: center; text-decoration: none;">
+    <a href="/assets/pdf/Bandits.pdf" style="flex: 1; padding: 10px; border: 1px solid grey; text-align: center; text-decoration: none;">
         <div style="font-weight: bold; color: orchid;">Report</div>
     </a>
     <a href="https://github.com/Vansh28Kapoor/Online-Learning" style="flex: 1; padding: 10px; border: 1px solid grey; text-align: center; text-decoration: none;">
