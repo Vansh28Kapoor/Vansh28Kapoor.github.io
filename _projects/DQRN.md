@@ -8,6 +8,9 @@ permalink: /projects/DQRN/
   [_CS 782: Advanced Topics in Machine Learning_](https://www.ee.iitb.ac.in/web/course_lists/ee-782-advanced-machine-learning/), [_Prof. Amit Sethi_](https://www.ee.iitb.ac.in/~asethi/) 
 
   <div style="display: flex;">
+        <a href="/assets/pdf/EE782_Project.pdf" style="flex: 1; padding: 10px; border: 1px solid grey; text-align: center; text-decoration: none;">
+        <div style="font-weight: bold; color: orchid;">Report</div>
+    </a>
     <a href="https://github.com/Vansh28Kapoor/EE782-project" style="flex: 1; padding: 10px; border: 1px solid grey; text-align: center; text-decoration: none;">
         <div style="font-weight: bold; color: orchid;">GitHub</div>
     </a>
