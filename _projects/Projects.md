@@ -92,7 +92,7 @@ information and handle noisy POMDP observations, despite handling only a single 
 <div style="height: 20px;"></div> <!-- Empty div for spacing -->
 
 <p align="center">
-    <img width="450"  src="/assets/img/DQRN.gif">
+    <img width="450"  src="/assets/img/GAN.gif">
 </p>
 
   <div style="margin-left: 20px;">
