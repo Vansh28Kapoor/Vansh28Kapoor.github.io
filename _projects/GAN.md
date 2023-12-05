@@ -8,8 +8,11 @@ permalink: /projects/AdvancedML/
   [_EE 782: Advanced Topics in Machine Learning_](https://www.ee.iitb.ac.in/web/course_lists/ee-782-advanced-machine-learning/), [_Prof. Amit Sethi_](https://www.ee.iitb.ac.in/~asethi/)  
 
 <div style="display: flex;">
-    <a href="https://github.com/Vansh28Kapoor/Advanced-Machine-Learning" style="flex: 1; padding: 10px; border: 1px solid grey; text-align: center; text-decoration: none;">
-        <div style="font-weight: bold; color: orchid;">GitHub</div>
+   <a href="https://github.com/Vansh28Kapoor/Advanced-Machine-Learning/tree/main/Stock%20Trading%20System" style="flex: 1; padding: 10px; border: 1px solid grey; text-align: center; text-decoration: none;">
+        <div style="font-weight: bold; color: orchid;">LSTM-Based Stock Trading System</div>
+    </a>
+    <a href="https://github.com/Vansh28Kapoor/Advanced-Machine-Learning/tree/main/Generative%20AI" style="flex: 1; padding: 10px; border: 1px solid grey; text-align: center; text-decoration: none;">
+        <div style="font-weight: bold; color: orchid;">Generative AI</div>
     </a>
 </div>
 
