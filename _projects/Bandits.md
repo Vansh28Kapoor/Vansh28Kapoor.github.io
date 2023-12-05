@@ -29,3 +29,6 @@ I worked on a bandit instance where pulls are no longer guaranteed to be success
 
 ## 2. Batched Multi-armed Bandits Problem
   For this task, we had to implement an efficient algorithm for batched sampling, i.e., at every time-step, we were allowed to pull only a fixed number of arms. I devised an asymptotically optimal algorithm that generalizes for arbitrary batch sizes. I approached the problem by implementing a batched sampling variant of Thompson Sampling and KL-UCB that stochastically sampled multiple times from the belief distribution it had of the Bernoulli arms.
+
+
+Furthermore, an efficient algorithm was devised for multiple bandit instances where the horizon equals the number of arms. The primary aim of the task was to design an algorithm capable of performing significantly better than simply sampling each arm once.
