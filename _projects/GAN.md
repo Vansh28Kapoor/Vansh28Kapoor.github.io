@@ -8,9 +8,6 @@ permalink: /projects/AdvancedML/
   [_EE 782: Advanced Topics in Machine Learning_](https://www.ee.iitb.ac.in/web/course_lists/ee-782-advanced-machine-learning/), [_Prof. Amit Sethi_](https://www.ee.iitb.ac.in/~asethi/)  
 
 <div style="display: flex;">
-    <a href="https://youtu.be/3ORLpbie0V4" style="flex: 1; padding: 10px; border: 1px solid grey; text-align: center; text-decoration: none;">
-        <div style="font-weight: bold; color: orchid;">Video</div>
-    </a>
     <a href="https://github.com/Vansh28Kapoor/Advanced-Machine-Learning" style="flex: 1; padding: 10px; border: 1px solid grey; text-align: center; text-decoration: none;">
         <div style="font-weight: bold; color: orchid;">GitHub</div>
     </a>
