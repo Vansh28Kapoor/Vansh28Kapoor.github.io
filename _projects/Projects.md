@@ -24,7 +24,7 @@ horizontal: false
 
 
    <div style="margin-left: 20px;">
-     Designed agents utilizing Monte-Carlo Tree Search (MCTS) in Billiards, developing optimal strategies through MDP-Planning for scoring goals in Half-Field Offense Football, and executing a successful run chase in cricket. <a href="/projects/RL">Read More</a>
+     Designed agents utilizing Monte-Carlo Tree Search (MCTS) in Billiards, developed optimal strategies through MDP-Planning for scoring goals in Half-Field Offense Football, and executing a successful run chase in cricket. <a href="/projects/RL">Read More</a>
    </div>   
 <br>
 
