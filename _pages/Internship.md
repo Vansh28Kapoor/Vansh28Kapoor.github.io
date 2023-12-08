@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-# *Google Silicon Engineering Intern* [[Presentation]](/assets/pdf/Presentation.pdf)
+# *Google Silicon Engineering Intern*
 <p align="center">
     <img width="450"  src="/assets/img/intern.png">
 </p>
