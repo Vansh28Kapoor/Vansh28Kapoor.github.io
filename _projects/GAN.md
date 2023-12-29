@@ -33,4 +33,7 @@ I set up an LSTM-based stock trading system for high-frequency trading and modif
     <img width="450"  src="/assets/img/GANS.gif">
 </p>
 
-I implemented a Siamese Network using a metric learning scheme (Cosine Similarity; paired with Crossentropy) on labeled faces in the [wild (LFW) dataset](http://vis-www.cs.umass.edu/lfw/). Trained a generative model for generating face images, using a GAN and enhanced the model to a conditional GAN, where the condition itself is a real face image of a particular individual. The CGAN generates another image of the same person using a Siamese Discriminator implemented in the first task.
+I implemented a Siamese Network using a metric learning scheme (Cosine Similarity; paired with Crossentropy) on labeled faces in the [wild (LFW) dataset](http://vis-www.cs.umass.edu/lfw/). Following this, I proceeded to train a generative model for creating facial images, initially employing a Generative Adversarial Network (GAN). 
+
+
+Subsequently, I further advanced this model to function as a conditional GAN (CGAN), wherein the condition for image generation relies on a real face image of a specific individual. To achieve this, I incorporated a Siamese Discriminator, which was initially implemented in the primary task. This enhanced CGAN successfully generates additional images portraying the same individual based on these specified conditions.
