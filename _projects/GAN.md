@@ -18,15 +18,17 @@ permalink: /projects/AdvancedML/
 
 <br>
 
+# Stock Trading System
 <p align="center">
     <img width="450" src="/img/LSTM.png">
 </p>
 
+Set up an LSTM-based stock trading system for high-frequency trading and modified it  modify the model to use multiple stock prices and day of the week as inputs to predict a single stock using this [Dataset](https://www.kaggle.com/datasets/rohanrkalbag/ee782)
 
-Our project’s primary objective is to implement a technique for visual multi-face detection that not only yields accurate results but also exhibits minimal computational complexity. We utilized Haar features-based Adaboost Cascade Classifier, which combines classical image processing concepts with modern machine learning techniques to enable rapid and accurate multi-face detection. It utilizes the modern technique of "Integral Image Representation” for rapid computation of Haar features, subsequently used by Adaboost for classifier learning. We optimize a cascade of such strong classifiers for faster face detection.
+# Generative AI
 
 <p align="center">
     <img width="480"  src="/img/GAN.png">
 </p>
 
-In the next phase of the project we integrated the Python code with a live webcam, enabling real-time face detection with the help of bounding boxes. We also compared its compution time with classical approaches such as Convolutional Neural Networks
+Implemented a Siamese Network using a metric learning scheme (Cosine Similarity; paired with Crossentropy) on labeled faces in the [wild (LFW) dataset](http://vis-www.cs.umass.edu/lfw/). Trained a generative model for generating face images, using a GAN and enhanced the model to a conditional GAN, where the condition itself is a real face image of a particular individual. The CGAN generates another image of the same person using a Siamese Discriminator implemented in the first task.
