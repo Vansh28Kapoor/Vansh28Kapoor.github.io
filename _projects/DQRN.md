@@ -34,19 +34,11 @@ The project presents a unique implementation of an RL-LSTM-Q Network for faster 
 
 ## The Architecture Breakdown
 
-To approach this complex problem, the project developed a series of classes designed to establish a robust infrastructure for learning and memory management.
+### 1. `RL_LSTM_Q_Network`
+Here we use Transfer-Learning by utilizing a ResNet-18 model as a feature extractor to get the state embedding. We utilize this embedding and pass it on to a Q-network. Q-Learning is a model-free off-policy algorithm for estimating the long-term expected return of executing an action from a given state.
 
-### 1. `LSTM` and `Net`
-A custom Long Short-Term Memory (LSTM) module, known as `LSTM`, was crafted for sequential processing. This was combined with the `Net` class, encompassing convolutional layers and pooling operations to efficiently capture spatiotemporal dependencies and process image sequences.
-
-### 2. `RL_LSTM_Q_Network`
-At the core of the architecture, the `RL_LSTM_Q_Network` class amalgamated convolutional layers with LSTM to craft an RL agent precisely tuned to navigate POMDP scenarios.
-
-### 3. `Agent`, `DeepMemory`, and `EpisodicMemory`
-The `Agent` class took center stage, responsible for managing memories, predicting actions, and orchestrating the training of the model. It utilized the `DeepMemory` and `EpisodicMemory` classes, providing a structured and efficient way to manage the vast data accumulated during the learning process.
-
-### 4. Utility Functions
-In addition to the core learning components, the project introduced utility functions for visualizing frames, rewards, and creating GIFs from frames. These functions provided critical insights into the model's learning process.
+### 2. `Agent`, `DeepMemory`, and `EpisodicMemory`
+The `Agent` class took center stage, handling memory management, action prediction, and model training. It made use of the `DeepMemory` and `EpisodicMemory` classes, offering a structured and efficient approach to handling the extensive data gathered during the learning phase. Bootstrapped Sequential Updates were utilized, and their performance was evaluated on flickering Atari 2600 games.
 
 ## Rolling Window Optimization for Memory
 
@@ -56,9 +48,8 @@ In addition to the core learning components, the project introduced utility func
     <em>Performance of RL Agent with iterations for Assault-v5</em>
 </p>
 
+The method employs the Sliding Window Optimization technique, utilizing Long Short-Term Memory (LSTM) operations. By reusing computations from prior timestamp calculations for all frames except the current one (WINDOW SIZE - 1 frames), it achieves a performance boost of x WINDOW SIZE. This approach significantly saves memory by preserving a sequential frame role in deep memory instances rather than storing the entire window for each instance. Dynamically computed during inference, this strategy optimizes computations and efficiently conserves memory resources.
 ## Domain Knowledge for Reward Function Implementation
-
-Utilizing domain knowledge rooted in general human gameplay, strategies are applied to allocate rewards effectively to the agent. Vanilla Q-Learning loss, assessment of shooting frequency, and consideration of gameplay duration collectively contribute to enhancing the agent's survivability in the game. This method prevents overheating from continuous firing and prompts selective 'shooting' actions as necessary. Training based on these human-inspired strategies aims to elevate the agent's performance beyond human-level gameplay.
 
 <p align="center">
     <img width="450" src="/assets/img/plot-assualt.png">
@@ -66,6 +57,5 @@ Utilizing domain knowledge rooted in general human gameplay, strategies are appl
     <em>Performance Evaluation of Proposed Approach</em>
 </p>
 
-## Concluding Remarks
+Utilizing domain knowledge rooted in general human gameplay, strategies are applied to allocate rewards effectively to the agent. Vanilla Q-Learning loss, assessment of shooting frequency, and consideration of gameplay duration collectively contribute to enhancing the agent's survivability in the game. This method prevents overheating from continuous firing and prompts selective 'shooting' actions as necessary. Training based on these human-inspired strategies aims to elevate the agent's performance beyond human-level gameplay.
 
-The integration of recurrent and deep Q-learning strategies within POMDP scenarios showcases the merging of diverse neural network paradigms. This project signifies a substantial stride towards conquering the intricate challenges embedded in the realm of POMDP, potentially leading to breakthroughs in handling complex real-world decision-making problems.
