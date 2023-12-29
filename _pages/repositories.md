@@ -14,7 +14,7 @@ In many practical sequential decision-making problems, there is an additional co
 
 In this setting, since each policy can map a state to a string of actions of possibly infinite length, i.e., there is no limit on the number of possible policies. I designed a computationally efficient algorithm and formulated theorems to calculate the optimal policy within any specified error threshold by exploring a finite set of policies. I validated these theoretical results also via numerical simulations.  
 
-In recognition of the contributions made through this research, I was awarded the *Undergraduate Research Award (URA01)* from IIT Bombay. We are currently working on its pre-print and aim to have it finalized by December 15th.
+In recognition of the contributions made through this research, I was awarded the *Undergraduate Research Award (URA01)* from IIT Bombay. We are currently working on its pre-print and aim to have it finalized by February.
 
 ## 2. Early Rumor Detection 
 _In collaboration with Google AI research, along with [Dr. Manish Jain](https://www.linkedin.com/in/manish-jain-kj2020/) and [Prof. Nikhil Karamchandani](https://sites.google.com/site/nikhilkaram/)_  
