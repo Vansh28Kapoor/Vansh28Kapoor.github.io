@@ -22,10 +22,15 @@ permalink: /projects/DQRN/
     <img width="450"  src="/assets/img/DQRN.gif">
 </p>
 
-# Exploring Deep Recurrent Q Learning for POMDP
+# Deep Recurrent Q Learning for POMDP
 
 The project presents a unique implementation of an RL-LSTM-Q Network for faster convergence towards optimality while playing Atari 2600 games such as Assault v-5 and Bowling. The innovations implemented include the utilization of domain knowledge for reward function implementation, a rolling window for memory optimization, Cosine Annealing for adapting to escalating difficulty levels, and Transfer Learning using ResNet-18 for image feature extraction, among others.
 
+<p align="center">
+    <img width="450" src="/assets/img/DQN.png">
+    <br>
+    <em>Double Deep Q-Network</em>
+</p>
 
 ## The Architecture Breakdown
 
@@ -43,10 +48,24 @@ The `Agent` class took center stage, responsible for managing memories, predicti
 ### 4. Utility Functions
 In addition to the core learning components, the project introduced utility functions for visualizing frames, rewards, and creating GIFs from frames. These functions provided critical insights into the model's learning process.
 
-## The Training Process
+## Rolling Window Optimization for Memory
 
-A meticulous training loop was established to immerse the model in POMDP environments. Over multiple episodes, the model interacted, predicted actions, and learned from experiences to optimize its strategy.
+<p align="center">
+    <img width="450" src="/assets/img/avg-plot.png">
+    <br>
+    <em>Performance of RL Agent with iterations for Assault-v5</em>
+</p>
 
-## Concluding Thoughts
+## Domain Knowledge for Reward Function Implementation
+
+Utilizing domain knowledge rooted in general human gameplay, strategies are applied to allocate rewards effectively to the agent. Vanilla Q-Learning loss, assessment of shooting frequency, and consideration of gameplay duration collectively contribute to enhancing the agent's survivability in the game. This method prevents overheating from continuous firing and prompts selective 'shooting' actions as necessary. Training based on these human-inspired strategies aims to elevate the agent's performance beyond human-level gameplay.
+
+<p align="center">
+    <img width="450" src="/assets/img/plot-assualt.png">
+    <br>
+    <em>Performance Evaluation of Proposed Approach</em>
+</p>
+
+## Concluding Remarks
 
 The integration of recurrent and deep Q-learning strategies within POMDP scenarios showcases the merging of diverse neural network paradigms. This project signifies a substantial stride towards conquering the intricate challenges embedded in the realm of POMDP, potentially leading to breakthroughs in handling complex real-world decision-making problems.
