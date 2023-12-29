@@ -24,7 +24,8 @@ permalink: /projects/DQRN/
 
 # Exploring Deep Recurrent Q Learning for POMDP
 
-The challenges in Partially Observable Markov Decision Processes (POMDP) within the reinforcement learning domain demand sophisticated strategies and models. The project took on this challenge, constructing a Deep Recurrent Q Learning model, amalgamating convolutional neural networks and recurrent neural networks to navigate the complexities inherent in these processes.
+The project presents a unique implementation of an RL-LSTM-Q Network for faster convergence towards optimality while playing Atari 2600 games such as Assault v-5 and Bowling. The innovations implemented include the utilization of domain knowledge for reward function implementation, a rolling window for memory optimization, Cosine Annealing for adapting to escalating difficulty levels, and Transfer Learning using ResNet-18 for image feature extraction, among others.
+
 
 ## The Architecture Breakdown
 
