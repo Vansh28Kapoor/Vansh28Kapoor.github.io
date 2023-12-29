@@ -42,8 +42,7 @@ horizontal: false
 
 
    <div style="margin-left: 20px;">
-     Implemented RL-LSTM-Q Network, which integrates information across frames to detect relevant
-information and handle noisy POMDP observations, despite handling only a single frame at each time-step. <a href="/projects/DQRN">Read More</a>
+     This project presents a unique implementation of Deep Recurrent Q-Network (DRQN) that incorporates Transfer Learning for feature extraction, a customized LSTM for temporal recurrence, and a domain-informed reward function for flickering Atari 2600 games. <a href="/projects/DQRN">Read More</a>
    </div>   
 <br>
 
