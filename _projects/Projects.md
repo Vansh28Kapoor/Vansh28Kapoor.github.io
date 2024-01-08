@@ -197,6 +197,6 @@ Evaluated the performance of Costas Loop and Viterbi-Viterbi algorithms in discr
 </p>
 
    <div style="margin-left: 20px;">
-Designed the architecture of a RISC microprocessor which included all the hazard mitigation techniques like forwarding and branch prediction. The architecture allowed predicated instruction execution and multiple load and store execution. <a href="/projects/RISC">Read More</a>
+Designed the architecture of a RISC microprocessor which included all the hazard mitigation techniques like forwarding and branch prediction. The architecture allowed predicated instruction execution and multiple load and store execution. <a href="https://github.com/Vansh28Kapoor/RISC_MulticycleProcessor">Read More</a>
   </div>
   
