@@ -8,8 +8,6 @@ nav: false
 horizontal: false
 ---
 
-# Technical Projects
-
 #### 1. **Reinforcement Learning in Billiards, Football, and Cricket**  
 <div style="margin-left: 20px;">
   <a href="https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2022/index.html">CS 747: Foundations of Intelligent and Learning Agents</a>, 
