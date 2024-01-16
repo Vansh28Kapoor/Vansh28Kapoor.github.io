@@ -21,3 +21,7 @@ _In collaboration with Google AI research, along with [Dr. Manish Jain](https://
 
 
 I got an opportunity to collaborate with Google AI Research to design effective models for for analyzing the spread of various contagion processes on social networks. Our project focuses on countering coordinated bot attacks aimed at spreading rumors across different social media platforms like YouTube.  We are employing Online Learning techniques to assess the credibility of individual users within the social network and subsequently applying deep learning-based cascade models to enable more precise  management of information dissemination.
+
+<p align="center">
+    <img width="350" src="/assets/img/info.png">
+</p>
