@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Deep Recurrent Q-Learning for Partially Observable MDPs"
-permalink: /projects/DQRN/
+permalink: /projects/SUR/
 ---
 
 
