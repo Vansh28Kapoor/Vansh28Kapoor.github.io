@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Deep Recurrent Q-Learning for Partially Observable MDPs"
+title: "SUR (Semantic Understanding & Reasoning Adapter) for ext to Image Diffusion Models"
 permalink: /projects/SUR/
 ---
 
@@ -18,7 +18,7 @@ permalink: /projects/SUR/
 
 <br>
 
-# Semantic Enhancement of text to Image Diffusion Models
+# Semantic Enhancement of Text to Image Diffusion Models
 In this project, we explored and experimented with advanced research papers focused on enhancing the semantic understanding of text-to-image generators. Specifically, we delved into:
 
 
