@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "SUR (Semantic Understanding & Reasoning Adapter) for ext to Image Diffusion Models"
+title: "SUR (Semantic Understanding & Reasoning Adapter) for Text to Image Diffusion Models"
 permalink: /projects/SUR/
 ---
 
