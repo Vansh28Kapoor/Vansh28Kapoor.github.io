@@ -15,9 +15,8 @@ permalink: /projects/SUR/
         <div style="font-weight: bold; color: orchid;">Presentation</div>
     </a>
 </div>
-<br>
-<be>
 
+<br>
 
 # Semantic Enhancement of text to Image Diffusion Models
 In this project, we explored and experimented with advanced research papers focused on enhancing the semantic understanding of text-to-image generators. Specifically, we delved into:
