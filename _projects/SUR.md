@@ -26,9 +26,8 @@ permalink: /projects/SUR/
 In this project, we explored and experimented with advanced research papers focused on enhancing the semantic understanding of text-to-image generators. Specifically, we delved into:
 
 <p align="center">
-    <img width="450" src="/assets/img/DQN.png">
+    <img width="450" src="/assets/img/AML.gif">
     <br>
-    <em>Double Deep Q-Network</em>
 </p>
 
 	•	SUR-adapter: Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models (LLMs)
