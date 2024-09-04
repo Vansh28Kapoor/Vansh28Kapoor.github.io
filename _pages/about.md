@@ -11,7 +11,7 @@ profile:
   address: >
     <center>
           <a href="mailto:kapoor4798.vk@gmail.com">Email</a> |
-          <a href="https://www.linkedin.com/in/vansh-kapoor-939347284/">LinkedIn</a> | 
+          <a href="https://www.linkedin.com/in/vansh28kapoor/">LinkedIn</a> | 
           <a href="https://github.com/Vansh28Kapoor">GitHub</a>
     </center>
 
