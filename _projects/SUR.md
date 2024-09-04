@@ -16,11 +16,7 @@ permalink: /projects/SUR/
     </a>
 </div>
 
-<br>
-
-<p align="center">
-    <img width="450"  src="/assets/img/.gif">
-</p>
+<be>
 
 # Semantic Enhancement of text to Image Diffusion Models
 In this project, we explored and experimented with advanced research papers focused on enhancing the semantic understanding of text-to-image generators. Specifically, we delved into:
@@ -30,7 +26,7 @@ In this project, we explored and experimented with advanced research papers focu
     <br>
 </p>
 
-	•	SUR-adapter: Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models (LLMs)
-	•	ELLA: Equipping Diffusion Models with LLMs for Enhanced Semantic Alignment
+- **SUR-adapter**: Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models (LLMs)
+- **ELLA**: Equipping Diffusion Models with LLMs for Enhanced Semantic Alignment
 
 Our work involved devising architectural changes and modifications to these implementations, aiming to improve the semantic understanding of the stable diffusion pipeline. We meticulously compared our enhanced models with the vanilla implementations to evaluate performance improvements.
