@@ -10,11 +10,11 @@ nav_order: 1
 ## 1. Partially Observable MDPs with State Sensing Cost 
 _Research project with [Prof. Jayakrishnan Nair ](https://www.ee.iitb.ac.in/~jayakrishnan.nair/)_    
 
-In many practical sequential decision-making problems, there is an additional cost associated with sensing a state. I worked on such a problem for a discounted cost Partially Observable MDP. In this setting, an agent incurs an extra cost for sensing its current state but still has the freedom to take actions even without knowing its present state. A policy in this setting maps each state to a sequence of actions that an agent plays till sensing.  
+In many practical sequential decision-making problems, tracking the state of the environment incurs an additional  sensing/communication/computation cost. We formulated this as an expected discounted cost Markov Decision Process (MDP), wherein the agent incurs an additional cost for sensing its next state, but has the choice to take actions while remaining `blind' to the system state. 
 
-In this setting, since each policy can map a state to a string of actions of possibly infinite length, i.e., there is no limit on the number of possible policies. I designed a computationally efficient algorithm and formulated theorems to calculate the optimal policy within any specified error threshold by exploring a finite set of policies. I validated these theoretical results also via numerical simulations.  
+Since a policy in this setting maps each state to a sequence of actions that an agent plays till sensing, each policy can map a state to a string of actions of possibly infinite length, i.e., there is no limit on the number of possible policies. While computing the optimal policy for this MDP is intractable in general, we bounded the sub-optimality gap associated with optimal policies in a restricted class, where the number of consecutive non-sensing (a.k.a., blind) actions is capped. We also designed a computationally efficient heuristic algorithm based on policy improvement, which in practice performs close to the optimal policy. We finally numerically evaluate our results via a case study based on inventory management. 
 
-In recognition of the contributions made through this research, I was awarded the *Undergraduate Research Award (URA01)* from IIT Bombay. We are currently working on its pre-print and aim to have it finalized by February.
+In recognition of my contributions to this research, I was awarded the *Undergraduate Research Award (URA01)* from IIT Bombay, and this work was submitted to *AAAI-25*, where I am the first author.
 
 ## 2. Early Rumor Detection 
 _In collaboration with Google AI research, along with [Dr. Manish Jain](https://www.linkedin.com/in/manish-jain-kj2020/) and [Prof. Nikhil Karamchandani](https://sites.google.com/site/nikhilkaram/)_  
