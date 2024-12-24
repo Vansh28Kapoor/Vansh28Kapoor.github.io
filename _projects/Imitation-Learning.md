@@ -15,13 +15,18 @@ horizontal: false
     </a>
 </div>
 
-<br>
+<be>
+
 
 ## Diffusion Policy
 <p align="center">	
     <img width="500"  src="/assets/img/Diffusion-policy.png">	
 </p>	
 Implemented Imitation Learning using diffusion policies for the BipedalWalker-v3 environment in Gymnasium. Designed a transformer-based policy architecture takes as input a history of states, actions, and episode timesteps and predicts future actions through denoising diffusion process. The expert trajectories to imitated were supplied by the Proximal Policy Optimization (PPO) algorithm as a substitute for human demonstrations.
+
+<p align="center">	
+    <img width="400"  src="/assets/img/Diffusion_trajectory.gif">	
+</p>	
 
 ## DAgger & Behavior Cloning
 <p align="center">	
