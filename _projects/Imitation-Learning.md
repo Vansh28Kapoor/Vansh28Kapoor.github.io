@@ -7,7 +7,7 @@ display_categories: [work, fun]
 nav: false
 horizontal: false
 ---
-  [_CS 747: Foundations of Intelligent Learning Agents_](https://cmudeeprl.github.io/703website_f24/), [_Prof. Katerina Fragkiadaki_](https://www.cs.cmu.edu/~katef/) 
+  [_10 715: Deep Reinforcement Learning and Control_](https://cmudeeprl.github.io/703website_f24/), [_Prof. Katerina Fragkiadaki_](https://www.cs.cmu.edu/~katef/) 
 
 <div style="display: flex;">
     <a href="https://github.com/Vansh28Kapoor/Imitation-Learning" style="flex: 1; padding: 10px; border: 1px solid grey; text-align: center; text-decoration: none;">
