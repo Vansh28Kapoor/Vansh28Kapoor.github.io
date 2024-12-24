@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Imitation Learning using Denoising Diffusion Models
-permalink: /projects/Imitation-Learning
+permalink: /projects/Imitation-Learning/
 description:
 display_categories: [work, fun]
 nav: false
