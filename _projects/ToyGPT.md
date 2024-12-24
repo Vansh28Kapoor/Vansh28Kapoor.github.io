@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /projects/ToyGPT
+permalink: /projects/ToyGPT/
 description:
 display_categories: [work, fun]
 nav: false
