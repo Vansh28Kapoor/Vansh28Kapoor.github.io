@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ToyGPT: A Miniature GPT Model for Arithmetic Addition
+title: "ToyGPT: A Miniature GPT Model for Arithmetic Addition"
 permalink: /projects/ToyGPT/
 description:
 display_categories: [work, fun]
