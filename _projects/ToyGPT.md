@@ -22,7 +22,7 @@ horizontal: false
 
 ## ToyGPT for Integer addition
 <p align="center">	
-    <img width="500"  src="/assets/img/PosAlgo.png">	
+    <img width="400"  src="/assets/img/PosAlgo.png">	
 </p>	
 
 Implemented a Transformer-based GPT model (Decoder-Only) for 2-digit integer addition using PyTorch. The project explores various architectural components of Transformers through a simple arithmetic task. The model takes concatenated input numbers as a string and predicts their sum in reverse order. Key aspects of the implementation include:
@@ -31,7 +31,7 @@ Implemented a Transformer-based GPT model (Decoder-Only) for 2-digit integer add
 Compared Rotary Positional Encoding (RoPE), learnable Absolute Positional Encoding (APE), and No Positional Encoding (NoPE) to analyze their impact on model performance.
 
 <p align="center">	
-    <img width="500"  src="/assets/img/PoSencodingloss.png">	
+    <img width="400"  src="/assets/img/PoSencodingloss.png">	
 </p>	
 
 We observe that both the final training and test accuracy follow the order APE > RoPE > NoPE. This
@@ -42,11 +42,11 @@ for the learnable APE encoding is higher than the other two due to the learnable
 ### 2. Layer Normalization Exploration: 
 Investigated Pre-Layer Normalization, Post-Layer Normalization, and No-Layer Normalization configurations to assess their effects on training stability and accuracy.
 <p align="center">	
-    <img width="500"  src="/assets/img/LayerNorm.png">	
+    <img width="400"  src="/assets/img/LayerNorm.png">	
 </p>	
 
 <p align="center">	
-    <img width="500"  src="/assets/img/Layernormloss.png">	
+    <img width="400"  src="/assets/img/Layernormloss.png">	
 </p>	
 
 The final training loss for both Pre-LN and Post-LN is very similar, with Pre-LN performing better overall,
@@ -58,7 +58,7 @@ training and test accuracies.
 Implemented visualization of attention matrices for each head and layer, enabling analysis of attention patterns and their role in the addition task.
 
 <p align="center">	
-    <img width="500"  src="/assets/img/Attention.png">	
+    <img width="400"  src="/assets/img/Attention.png">	
 </p>	
 
 Observe that the attention matrices are lower-triangular matrices because of the mask that ensures that
