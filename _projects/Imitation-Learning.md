@@ -30,13 +30,8 @@ Implemented Imitation Learning using diffusion policies for the BipedalWalker-v3
 <p align="center">	
     <img width="500"  src="/assets/img/DAgger.png">	
 </p>	
-Implemented DAgger and Behavior Cloning by training a policy through supervised regression to map observations to actions using a dataset of expert trajectories (state-action pairs). Designed a residual three-layer multilayer perceptron (MLP) as the policy network, outputting actions within the range [-1, 1]. he average, median, and max reward for each
-batch collection step when collecting trajectories using the DAgger model, and plot
-the results
-<p align="center">	
-    <img width="500"  src="/assets/img/DAgger.png">	
-</p>	
+Implemented DAgger by training a policy through supervised regression to map observations to actions using a dataset of expert trajectories (state-action pairs). Designed a residual three-layer multilayer perceptron (MLP) as the policy network, outputting actions within the range [-1, 1]. The training loss plot, along with the average, median, and maximum reward for each batch collection step during trajectory collection using the DAgger algorithm, is shown above.
 <p align="center">	
     <img width="500"  src="/assets/img/BC.gif">	
 </p>	
-
+Using the same architecture, the training loss plot along with the results of the final deployed policy for Behavior Cloning is shown above. Despite having a considerably low training loss, the BC policy fails miserably.
