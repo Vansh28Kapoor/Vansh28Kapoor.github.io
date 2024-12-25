@@ -17,9 +17,7 @@ horizontal: false
 
 <br>
 
-## Diffusion Policy
-
-
+## Diffusion Policy  
 <p align="center">	
     <img width="500"  src="/assets/img/Diffusion-policy.png">	
 </p>	
@@ -31,7 +29,7 @@ Implemented Imitation Learning using diffusion policies for the BipedalWalker-v3
 </p>	
 
 
-## DAgger & Behavior Cloning
+## DAgger & Behavior Cloning  
 
 
 <p align="center">	
