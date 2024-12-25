@@ -15,7 +15,8 @@ horizontal: false
     </a>
 </div>
 
-<be>
+<br>
+
 
 
 Evaluated the performance of model-free RL algorithms (Actor-Critic, DQN, REINFORCE) against the model-based MuZero algorithm on the CartPole-v1 environment in Gymnasium.
