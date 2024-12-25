@@ -31,6 +31,7 @@ Implemented Imitation Learning using diffusion policies for the BipedalWalker-v3
 
 ## DAgger & Behavior Cloning
 
+
 <p align="center">	
     <img width="500"  src="/assets/img/Dagger_Algo.png">	
 </p>
