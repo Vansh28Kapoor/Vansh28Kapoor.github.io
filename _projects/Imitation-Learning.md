@@ -19,9 +19,12 @@ horizontal: false
 
 
 ## Diffusion Policy
+
+
 <p align="center">	
     <img width="500"  src="/assets/img/Diffusion-policy.png">	
 </p>	
+
 Implemented Imitation Learning using diffusion policies for the BipedalWalker-v3 environment in Gymnasium. Designed a transformer-based policy architecture takes as input a history of states, actions, and episode timesteps and predicts future actions through denoising diffusion process. The expert trajectories to imitated were supplied by the Proximal Policy Optimization (PPO) algorithm as a substitute for human demonstrations.
 
 <p align="center">	
@@ -40,6 +43,7 @@ Implemented Imitation Learning using diffusion policies for the BipedalWalker-v3
 <p align="center">	
     <img width="500"  src="/assets/img/DAgger.png">	
 </p>	
+
 Implemented DAgger by training a policy through supervised regression to map observations to actions using a dataset of expert trajectories (state-action pairs). Designed a residual three-layer multilayer perceptron (MLP) as the policy network, outputting actions within the range [-1, 1]. The training loss plot, along with the average, median, and maximum reward for each batch collection step during trajectory collection using the DAgger algorithm, is shown above.
 <p align="center">	
     <img width="500"  src="/assets/img/BC.gif">	
