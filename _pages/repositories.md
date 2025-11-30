@@ -9,7 +9,7 @@ nav_order: 1
 
 # Publications
 
-1. **MDPs with State Sensing Costs**
+### MDPs with State Sensing Costs
 
 **<u>Vansh Kapoor</u>**, Jayakrishnan Nair  
 [Paper ↗](https://arxiv.org/abs/2505.03280) · [GitHub](https://github.com/Vansh28Kapoor/POMDPs-With-Sensing-Cost)
@@ -20,7 +20,7 @@ I worked on the problem of sequential decision-making with costly state sensing,
 
 ---
 
-2. **TRIM: Hybrid Inference via Targeted Stepwise Routing in Multi-Step Reasoning Tasks**
+### TRIM: Hybrid Inference via Targeted Stepwise Routing in Multi-Step Reasoning Tasks
 
 **<u>Vansh Kapoor</u>**, Aman Gupta, Hao Chen, Anurag Beniwal, Jing Huang, Aviral Kumar  
 [Paper ↗](https://vansh28kapoor.github.io/assets/pdf/TRIM_preprint.pdf)  
@@ -31,18 +31,18 @@ As an *Applied Science AI Intern at Amazon*, I led a research project on dynamic
 
 
 <p align="center">
-    <img width="900" src="/assets/img/Stepwise_Setup.png">
+    <img width="800" src="/assets/img/Stepwise_Setup.png">
 </p>
 
 ---
 
 
-3. **Early Rumor Detection**
+### Early Rumor Detection
 
 _In collaboration with Google DeepMind, along with [Prof. Nikhil Karamchandani](https://sites.google.com/site/nikhilkaram/) and [Dr. Manish Jain](https://www.linkedin.com/in/manish-jain-kj2020/)_
 
 I got an opportunity to collaborate with Google Research for my Bachelor’s Thesis project with Prof. Nikhil  Karamchandani to develop algorithms to counter coordinated bot attacks spreading rumors on social platforms like YouTube. Modeling these platforms as large-scale social graphs, we designed multi-step lookahead algorithms that leverage crowd-sourced signals for robust rumor detection.  To ensure scalability, we developed efficient approximations of our algorithms that enabled them to operate effectively on large, complex networks. Our method consistently outperformed state-of-the-art greedy algorithms while maintaining computational efficiency. We evaluated our approach across diverse graph structures, including those with adversarial and low-reliability users that mimic real-world information propagation, and demonstrated strong robustness to both malicious and uninformed agents. Furthermore, we established theoretical performance guarantees, including regret bounds for this class of multi-step lookahead algorithms.
 
 <p align="center">
-    <img width="300" src="/assets/img/info.png">
+    <img width="250" src="/assets/img/info.png">
 </p>
