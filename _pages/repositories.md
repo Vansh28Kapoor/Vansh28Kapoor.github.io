@@ -7,21 +7,42 @@ nav: true
 nav_order: 1
 ---
 
-## 1. [Partially Observable MDPs with State Sensing Cost](https://arxiv.org/abs/2505.03280) 
-_Research project with [Prof. Jayakrishnan Nair ](https://www.ee.iitb.ac.in/~jayakrishnan.nair/)_    
+# Publications
 
-In many practical sequential decision-making problems, tracking the state of the environment incurs an additional  sensing/communication/computation cost. We formulated this as a classical expected discounted cost Markov Decision Process (MDP), wherein the agent incurs an additional cost for sensing its next state, but has the choice to take actions while remaining `blind' to the system state. 
+1. **MDPs with State Sensing Costs**
 
-Since a policy in this setting maps each state to a sequence of actions that an agent plays till sensing, each policy can map a state to a string of actions of possibly infinite length, i.e., there is no limit on the number of possible policies. While computing the optimal policy for this MDP is intractable in general, we bounded the sub-optimality gap associated with optimal policies in a restricted class, where the number of consecutive non-sensing (a.k.a., blind) actions is capped. We also designed a computationally efficient heuristic algorithm based on policy improvement, which in practice performs close to the optimal policy. We finally numerically evaluate our results via a case study based on inventory management. 
+**<u>Vansh Kapoor</u>**, Jayakrishnan Nair  
+[Paper ↗](https://arxiv.org/abs/2505.03280) · [GitHub](https://github.com/Vansh28Kapoor/POMDPs-With-Sensing-Cost)
 
-In recognition of my contributions to this research, I was awarded the *Undergraduate Research Award (URA01)* from IIT Bombay, and this work was submitted to *NeurIPS 2025*, where I am the first author.
+*Under review at AISTATS’26*
 
-## 2. [Early Rumor Detection](https://github.com/Vansh28Kapoor/Crowdsourcing-for-Rumor-Detection) 
-_In collaboration with Google AI research, along with [Dr. Manish Jain](https://www.linkedin.com/in/manish-jain-kj2020/) and [Prof. Nikhil Karamchandani](https://sites.google.com/site/nikhilkaram/)_  
+I worked on the problem of sequential decision-making with costly state sensing, where an agent must determine not only which action to take but also when acquiring state information is worth the sensing cost. We reformulated this original Partially Observable MDP (POMDP) as an equivalent MDP by expanding the state space, enabling the use of classical dynamic programming tools such as Bellman equations and the Policy Improvement Theorem. Building on this formulation, I designed SPI (Selective Policy Improvement)—a novel algorithm that achieves near-optimal sensing strategies and consistently outperforms state-of-the-art POMDP solvers, while scaling gracefully to continuous state spaces via function approximation. I also derived analytic lower bounds on the optimal value function, which allowed explicit computation of suboptimality gaps for arbitrary policies. This work was recognized with the *Undergraduate Research Award* at IIT Bombay.
 
+---
 
-I got an opportunity to collaborate with Google AI Research to design effective models for for analyzing the spread of various contagion processes on social networks. Our project focuses on countering coordinated bot attacks aimed at spreading rumors across different social media platforms like YouTube.  We are employing Online Learning techniques to assess the credibility of individual users within the social network and subsequently applying deep learning-based cascade models to enable more precise  management of information dissemination.
+2. **TRIM: Hybrid Inference via Targeted Stepwise Routing in Multi-Step Reasoning Tasks**
+
+**<u>Vansh Kapoor</u>**, Aman Gupta, Hao Chen, Anurag Beniwal, Jing Huang, Aviral Kumar  
+[Paper ↗](https://vansh28kapoor.github.io/assets/pdf/TRIM_preprint.pdf)  
+
+*Under review at ICLR’26*
+
+As an *Applied Science AI Intern at Amazon*, I led a research project on dynamic LLM routing for multi-step reasoning tasks, aiming to intelligently allocate computation across a cheap, weaker model and a strong, expensive model under arbitrary token–cost constraints. I developed both RL–based and POMDP-based routing policies that decide, at each reasoning step, which model should generate the next sequence of tokens. Our system achieved up to 5× higher cost efficiency than SOTA routing baselines on challenging benchmarks such as AIME and MATH-500, while matching the accuracy of the expensive model using 75% fewer expensive-model tokens. This work introduces a principled alternative to one-shot query routing by treating routing as a sequential decision problem
+
 
 <p align="center">
-    <img width="350" src="/assets/img/info.png">
+    <img width="900" src="/assets/img/Stepwise_Setup.png">
+</p>
+
+---
+
+
+3. **Early Rumor Detection**
+
+_In collaboration with Google DeepMind, along with [Prof. Nikhil Karamchandani](https://sites.google.com/site/nikhilkaram/) and [Dr. Manish Jain](https://www.linkedin.com/in/manish-jain-kj2020/)_
+
+I got an opportunity to collaborate with Google Research for my Bachelor’s Thesis project with Prof. Nikhil  Karamchandani to develop algorithms to counter coordinated bot attacks spreading rumors on social platforms like YouTube. Modeling these platforms as large-scale social graphs, we designed multi-step lookahead algorithms that leverage crowd-sourced signals for robust rumor detection.  To ensure scalability, we developed efficient approximations of our algorithms that enabled them to operate effectively on large, complex networks. Our method consistently outperformed state-of-the-art greedy algorithms while maintaining computational efficiency. We evaluated our approach across diverse graph structures, including those with adversarial and low-reliability users that mimic real-world information propagation, and demonstrated strong robustness to both malicious and uninformed agents. Furthermore, we established theoretical performance guarantees, including regret bounds for this class of multi-step lookahead algorithms.
+
+<p align="center">
+    <img width="300" src="/assets/img/info.png">
 </p>
