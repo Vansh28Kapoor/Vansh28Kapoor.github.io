@@ -7,8 +7,6 @@ nav: true
 nav_order: 1
 ---
 
-# Publications
-
 ### MDPs with State Sensing Costs
 
 **<u>Vansh Kapoor</u>**, Jayakrishnan Nair  
