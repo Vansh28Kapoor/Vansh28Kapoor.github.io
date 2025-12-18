@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Others/
+permalink: /Academics/
 title: Others
 description: 
 nav: true
