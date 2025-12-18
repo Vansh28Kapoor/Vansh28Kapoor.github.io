@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-## Teaching Assistantship  
+## Teaching Assistantship 
 - [10703: Deep Reinforcement Learning & Control (Fall 2025) @ CMU](https://cmudeeprl.github.io/703website_f25/)
 - [EE605: Error Correcting Codes (Fall 2023) @ IIT Bombay](https://www.ee.iitb.ac.in/web/course_lists/ee-605-error-correcting-codes/)
 <!--I am currently (*Autumn 2023*) a Teaching Assistant for the graduate-level course EE605: Error Correcting Codes. I assisted the instructor in creating
@@ -16,10 +16,12 @@ and grading course assignments and quizzes. I held weekly office hours and remai
 ## Courses @ CMU
 
 ### Reinforcement Learning
+-----------------------------------------
 * [Algorithmic Foundations of Interactive Learning](https://interactive-learning-algos.github.io/)
 * [Deep Reinforcement Learning & Control](https://cmudeeprl.github.io/703website_f24/)
 
 ### AI & ML
+-----------------------------------------
 * [Generative AI](https://www.cs.cmu.edu/~mgormley/courses/10423/)
 * [Optimization for ML](https://sites.google.com/view/10725-2025f)
 * [Visual Learning and Recognition](https://visual-learning.cs.cmu.edu/)
