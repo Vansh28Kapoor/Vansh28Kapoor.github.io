@@ -21,7 +21,7 @@ nav_order: 2
   </summary>
 
   <p>
-    During the summer of 2025, as an Applied Science intern at Amazon AI, I worked on dynamic LLM routing for multi-step reasoning tasks in collaboration with Prof. Aviral Kumar. In this work, we introduced an approach for targeted, stepwise routing that escalates only critical steps to stronger, more expensive LLMs, intervening precisely where the partial reasoning trace risks diverging from a correct solution. Our key insight is that targeted step-level interventions can fundamentally improve inference efficiency by limiting expensive calls to those steps where stronger models prevent cascading errors.
+    <br> During the summer of 2025, as an Applied Science intern at Amazon AI, I worked on dynamic LLM routing for multi-step reasoning tasks in collaboration with Prof. Aviral Kumar. In this work, we introduced an approach for targeted, stepwise routing that escalates only critical steps to stronger, more expensive LLMs, intervening precisely where the partial reasoning trace risks diverging from a correct solution. Our key insight is that targeted step-level interventions can fundamentally improve inference efficiency by limiting expensive calls to those steps where stronger models prevent cascading errors.
   </p>
 
   <p align="center">
@@ -48,14 +48,14 @@ nav_order: 2
       <em>Google Silicon Engineering Intern</em>
     </h1>
   </summary>
-
+<br>
   <div style="display:flex; justify-content:center; align-items:center; gap:20px; flex-wrap:wrap; margin-top: 10px;">
     <img src="/assets/img/intern.png" style="height:250px; width:auto;">
     <img src="/assets/img/smart_exclusion.png" style="height:250px; width:auto;">
   </div>
 
   <p>
-    During the summer of 2023, I interned at Google as a Silicon Hardware intern, where I worked on four significant projects over 10 weeks. In my first project, I conducted toggle coverage analysis using Python-based flows to generate exclusion files aimed at optimizing design verification. These exclusion files captured tied-off or floating signals within the Device Under Test (DUT) and were used to exclude them during verification, streamlining the overall design verification process.
+    <br> During the summer of 2023, I interned at Google as a Silicon Hardware intern, where I worked on four significant projects over 10 weeks. In my first project, I conducted toggle coverage analysis using Python-based flows to generate exclusion files aimed at optimizing design verification. These exclusion files captured tied-off or floating signals within the Device Under Test (DUT) and were used to exclude them during verification, streamlining the overall design verification process.
   </p>
 
   <p>
