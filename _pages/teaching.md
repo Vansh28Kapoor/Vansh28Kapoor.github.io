@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Academics/
-title: Others
+title: Academics
 description: 
 nav: true
 nav_order: 3
