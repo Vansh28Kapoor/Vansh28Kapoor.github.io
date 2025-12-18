@@ -13,13 +13,13 @@ nav_order: 3
 <!--I am currently (*Autumn 2023*) a Teaching Assistant for the graduate-level course EE605: Error Correcting Codes. I assisted the instructor in creating
 and grading course assignments and quizzes. I held weekly office hours and remained available throughout the week for online assistance with any questions or concerns. -->
 
-## Courses at CMU
+## Courses @ CMU
 
-## Reinforcement Learning
+### Reinforcement Learning
 * [Algorithmic Foundations of Interactive Learning](https://interactive-learning-algos.github.io/)
 * [Deep Reinforcement Learning & Control](https://cmudeeprl.github.io/703website_f24/)
 
-## AI & ML
+### AI & ML
 * [Generative AI](https://www.cs.cmu.edu/~mgormley/courses/10423/)
 * [Optimization for ML](https://sites.google.com/view/10725-2025f)
 * [Visual Learning and Recognition](https://visual-learning.cs.cmu.edu/)
@@ -27,7 +27,7 @@ and grading course assignments and quizzes. I held weekly office hours and remai
 * [Advanced Intro to ML](https://www.cs.cmu.edu/~nihars/teaching/10715Fa25.html)
 * [ML in Practice](https://dssg.github.io/MLinPractice/)
 
-## Selected Courses at IIT Bombay
+## Selected Courses @ IIT Bombay
 
 ### Reinforcement Learning
 -----------------------------------------
