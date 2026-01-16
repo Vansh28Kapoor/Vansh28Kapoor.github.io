@@ -21,7 +21,7 @@ I worked on the problem of sequential decision-making with costly state sensing,
 ### TRIM: Hybrid Inference via Targeted Stepwise Routing in Multi-Step Reasoning Tasks
 
 **<u>Vansh Kapoor</u>**, Aman Gupta, Hao Chen, Anurag Beniwal, Jing Huang, Aviral Kumar  
-[Paper ↗](https://vansh28kapoor.github.io/assets/pdf/TRIM_preprint.pdf)  
+[Paper ↗](https://arxiv.org/abs/2601.10245)  
 
 *Under review at ICLR’26*
 
