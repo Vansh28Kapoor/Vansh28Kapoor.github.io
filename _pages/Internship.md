@@ -16,7 +16,7 @@ nav_order: 2
       In collaboration with
       <a href="https://aviralkumar2907.github.io/">Prof. Aviral Kumar</a> ·
       Under review at ICLR’26 ·
-      <a href="https://vansh28kapoor.github.io/assets/pdf/TRIM_preprint.pdf">Paper ↗</a>
+      <a href="https://arxiv.org/abs/2601.10245">Paper ↗</a>
     </div>
   </summary>
 
