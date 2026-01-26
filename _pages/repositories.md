@@ -12,7 +12,7 @@ nav_order: 1
 **<u>Vansh Kapoor</u>**, Jayakrishnan Nair  
 [Paper ↗](https://arxiv.org/abs/2505.03280) · [GitHub](https://github.com/Vansh28Kapoor/POMDPs-With-Sensing-Cost)
 
-*AISTATS 2026*
+*AISTATS 2026 (accepted)*
 
 I worked on the problem of sequential decision-making with costly state sensing, where an agent must determine not only which action to take but also when acquiring state information is worth the sensing cost. We reformulated this original Partially Observable MDP (POMDP) as an equivalent MDP by expanding the state space, enabling the use of classical dynamic programming tools such as Bellman equations and the Policy Improvement Theorem. Building on this formulation, I designed SPI (Selective Policy Improvement)—a novel algorithm that achieves near-optimal sensing strategies and consistently outperforms state-of-the-art POMDP solvers, while scaling gracefully to continuous state spaces via function approximation. I also derived analytic lower bounds on the optimal value function, which allowed explicit computation of suboptimality gaps for arbitrary policies. This work was recognized with the *Undergraduate Research Award* at IIT Bombay.
 
@@ -23,7 +23,7 @@ I worked on the problem of sequential decision-making with costly state sensing,
 **<u>Vansh Kapoor</u>**, Aman Gupta, Hao Chen, Anurag Beniwal, Jing Huang, Aviral Kumar  
 [Paper ↗](https://arxiv.org/abs/2601.10245)  
 
-*Under review at ICLR 2026*
+*ICLR 2026 (accepted)*
 
 As an *Applied Science AI Intern at Amazon*, I led a research project on dynamic LLM routing for multi-step reasoning tasks, aiming to intelligently allocate computation across a cheap, weaker model and a strong, expensive model under arbitrary token–cost constraints. I developed both RL–based and POMDP-based routing policies that decide, at each reasoning step, which model should generate the next sequence of tokens. Our system achieved up to 5× higher cost efficiency than SOTA routing baselines on challenging benchmarks such as AIME and MATH-500, while matching the accuracy of the expensive model using 75% fewer expensive-model tokens. This work introduces a principled alternative to one-shot query routing by treating routing as a sequential decision problem
 
