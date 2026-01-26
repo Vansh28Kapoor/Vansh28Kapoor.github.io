@@ -15,7 +15,7 @@ nav_order: 2
     <div style="font-size:0.95em;">
       In collaboration with
       <a href="https://aviralkumar2907.github.io/">Prof. Aviral Kumar</a> ·
-      Under review at ICLR’26 ·
+      Accepted at ICLR’26 ·
       <a href="https://arxiv.org/abs/2601.10245">Paper ↗</a>
     </div>
   </summary>
